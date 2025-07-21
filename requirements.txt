@@ -1,0 +1,10 @@
+fastapi
+asyncpg
+pypdf
+python-docx
+pinecone
+sqlalchemy
+httpx
+uvicorn
+sentence-transformers
+torch
