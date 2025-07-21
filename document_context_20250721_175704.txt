@@ -1,0 +1,4787 @@
+Document Context Extraction Report
+Generated at: 2025-07-21 17:57:04
+Total chunks: 97
+================================================================================
+
+CHUNK 1
+Page: 1
+Content Length: 1647 characters
+Content:
+PREFACE
+We at 
+ are committed to demonstrate excellence in our environment 
+Hero MotoCorp,
+performance on a continual basis, as an intrinsic element of our corporate philosophy. To 
+achieve this we commit ourselves to continue product innovations to improve environment 
+compatibility, comply with all applicable legislation including environment legislation and 
+strengthen the green supply chain.  
+Your vehicle is conforming to latest BS6 STAGE-VI (OBD STAGE II-A) regulation for 
+emission, safety & noise levels. We are also using non asbestos brake shoes/pads and engine 
+gaskets which are environment friendly in nature.
+Thank you for selecting a 
+ 
+. We wish you many miles 
+Hero MotoCorp SUPER SPLENDOR
+of continued riding pleasure in the years ahead.
+This vehicle is fitted with a lighting feature known as “Automatic Headlamp ON”. The feature 
+is mandated for all 2 Wheelers by Ministry of Road Transport & Highways (Government of 
+India) vide notification GSR 188 (E) dated 22nd February 2016. This feature helps in 
+conspicuity for improving rider safety. The headlamp of this vehicle will always be lit ON when 
+the engine gets ON.
+Let us make this world a safer, healthier and more environment friendly place.
+This booklet is your guide to the basic operation and maintenance of your new 
+ 
+. Please take time to read it carefully. As with any fine 
+Hero MotoCorp SUPER SPLENDOR
+machine, proper care and maintenance are essential for trouble-free operation and optimum 
+performance.
+Your Authorised 
+ dealer will be glad to provide further information or 
+Hero MotoCorp
+assistance and is equipped to handle your future service needs.
+----------------------------------------
+
+CHUNK 2
+Page: 2
+Content Length: 838 characters
+Content:
+Hero MotoCorp Ltd RESERVES THE RIGHT TO MAKE CHANGES IN ITS 
+CONTENTS AT ANY TIME WITHOUT NOTICE AND/OR INCURRING ANY 
+OBLIGATION, WHATSOEVER. NO ONE IS ALLOWED TO REPRODUCE ANY 
+PART OF THIS PUBLICATION WITHOUT OBTAINING PRIOR WRITTEN 
+PERMISSION FROM  Hero MotoCorp Ltd.
+ALL INFORMATION, ILLUSTRATION, PHOTOGRAPH, DIRECTIONS, 
+SPECIFICATIONS AND OTHER CONTENTS COVERED IN THIS OWNER'S 
+MANUAL ARE BASED ON THE LATEST PRODUCT INFORMATION AVAILABLE 
+AT THE TIME OF ITS PUBLISHING APPROVAL, AND THE ACCURACY OR 
+CORRECTNESS OF THE SAME IS NOT UNDERTAKEN OR GUARANTEED. 
+NOTE
+ACCESSORIES SHOWN MAY NOT BE THE PART OF STANDARD FITMENT. IT IS 
+OUR ENDEAVOUR TO CONSTANTLY IMPROVE OUR PRODUCTS. THIS COULD 
+LEAD TO CHANGE IN PRODUCT SPECIFICATIONS WITHOUT NOTICE. Hero 
+MotoCorp Ltd ‘
+’ COMPLIES WITH THE LATEST EMISSION 
+SUPER SPLENDOR
+NORMS.
+----------------------------------------
+
+CHUNK 3
+Page: 3
+Content Length: 32 characters
+Content:
+Pg. No. Pg. No. CONTENTS
+Pg. No.
+----------------------------------------
+
+CHUNK 4
+Page: 3
+Content Length: 1346 characters
+Content:
+ANTI-THEFT TIPS 
+7 
+VEHICLE SAFETY 
+8
+VEHICLE IDENTIFICATION 
+1
+VEHICLE SPECIFICATION 
+5
+VEHICLE VIEWS 
+2
+ACCESSORIES & MODIFICATIONS 
+7
+Ÿ Important safety information 
+8
+Ÿ Protective apparel 
+9
+SAFE RIDING TIPS 
+10
+TIPS FOR HEALTHY ENVIRONMENT 
+11
+Ÿ Ignition switch 
+12
+PARTS FUNCTION 
+12
+Ÿ LCD panel 
+15
+FEATURES 
+19
+Ÿ Instruments and Indicators 
+13
+HANDLEBAR SWITCHES CONTROL 
+19
+i3s (IDLE STOP START SYSTEM) 
+20
+SIDE STAND INDICATOR/SWITCH 
+22
+FUEL  
+24
+SEAT LOCK/HELMET HOLDER 
+26
+TOOL KIT/FIRST AID KIT 
+32
+PARKING 
+32
+PRE-RIDE INSPECTION 
+28
+USB CHARGER 
+27
+MAINTENANCE 
+33
+CLEANING AND WASHING OF VEHICLE 
+33
+STARTING THE ENGINE 
+29
+BRAKING 
+31
+RIDING 
+31
+SAFETY PRECAUTION 
+34
+CATALYTIC CONVERTER 
+66
+DRIVE CHAIN SLACKNESS 
+48
+TUBELESS TYRES 
+59
+OIL FILTER SCREEN  
+41
+THROTTLE OPERATION 
+47
+STOP LAMP SWITCH 
+65
+ROAD SIGNS 
+71
+HERO GENUINE PARTS
+POLISHING OF VEHICLE 
+67
+SUSPENSION 
+55
+DRIVE CHAIN SLIDER INSPECTION 
+50
+ENGINE OIL 
+39
+NUTS, BOLTS & FASTENERS 
+62
+BRAKES 
+51
+SPARK PLUG INSPECTION 
+38
+ENGINE OIL FILTER ELEMENT 
+40
+AIR CLEANER 
+42
+MAIN/SIDE STAND LUBRICATION 
+59
+HEADLAMP FOCUS ADJUSTMENT 
+66
+VALVE CLEARANCE ADJUSTMENT 
+44
+WHEEL 
+56
+FUSE REPLACEMENT 
+64
+MAINTENANCE SCHEDULE 
+35
+CLUTCH LEVER FREE PLAY 
+46
+ZONAL/REGIONAL/AREA OFFICES
+BATTERY 
+62
+BASIC TROUBLESHOOTING 
+68
+EVAPORATIVE EMISSION CONTROL SYSTEM 
+67
+WARRANTY
+----------------------------------------
+
+CHUNK 5
+Page: 4
+Content Length: 824 characters
+Content:
+VEHICLE IDENTIFICATION
+1
+Model: SUPER SPLENDOR PROGRAMMED FI
+Engine No.
+Location: Stamped on the lower side of the 
+left crankcase.
+MBLJAW33#########
+JA07AB#
+#######
+1. During registration of the vehicle.
+VIN and Engine No. may be required:
+2. For dealing with legal & insurance departments.
+VIN: MBLJAW33#########
+MBL
+JAW33
+#
+Manufacturer 
+code
+Vehicle 
+Description
+ Model Year
+#
+Check
+Digit
+Engine No.: JA07AB########
+JA07AB
+#
+#
+Engine 
+Description
+Year of 
+Manufacturing
+Assembly Plant
+#
+#
+#####
+Plant
+Code
+Month of 
+Manufacturing
+Production
+ Serial Number
+#
+#####
+Month of 
+Manufacturing
+Serial Number
+Vehicle Identification Number (VIN)
+Location: Stamped on the right side of the 
+steering head tube.
+VIN
+Engine
+Variant
+JAW33
+JA07AB
+Electric start/Front disc/Cast wheel
+JAW34
+JA07AB
+Electric start/Front drum/Cast wheel
+----------------------------------------
+
+CHUNK 6
+Page: 5
+Content Length: 768 characters
+Content:
+2
+(2) Programmed FI malfunction 
+indicator lamp (MIL)
+( ) Horn switch
+5  
+(9) Passing switch
+(10) Neutral indicator
+( 1) Side stand indicator
+1  
+(1) Speedometer
+ 
+( ) Clutch lever
+7  
+(3) i3s indicator 
+(4) Dimmer switch
+ 
+(8) Rear view mirror
+ 
+( )6  Turn signal switch
+(12) Low fuel indicator
+#
+(17) Front brake master cylinder/Reservoir
+(22) Ignition switch with steering lock
+(20) Throttle grip 
+(16) Mode/Reset button
+(18) i3s switch
+(14) Turn signal indicator
+(21) Electric starter switch 
+( 3) High beam indicator
+1  
+(15) LCD panel
+(19) Front brake lever
+(24)   QR code
+(23) Fuel tank cap
+TOP VIEW
+VEHICLE VIEWS 
+19
+20
+21
+22
+23
+15
+14
+12
+16
+13
+17
+11
+18
+10
+8
+5
+3
+4
+7
+2
+1
+9
+6
+*Accessories and features shown may not be part of standard fitment.
+#
+Disc Variant
+24
+----------------------------------------
+
+CHUNK 7
+Page: 6
+Content Length: 566 characters
+Content:
+3
+LEFT SIDE VIEW
+12
+11
+(2) Rider footrest
+(1) Gear shift pedal
+(5) Pillion footrest
+(4) Side stand 
+(7) Saree guard with 
+women pillion step
+(6) Left side cover
+(3) Main stand
+(8) Seat lock
+(11) Rear reflex reflector
+(14) Helmet holder (inside)
+(9) Rear fender
+(13) Rear grip
+(10) Rear turn signal lamp
+(12) Tail/Stop lamp
+(16) Side stand switch
+(18) Front suspension
+(17) USB charger
+(15) Battery (inside)
+(20) Front reflex reflector
+(19) Front fender
+13
+14
+15
+16
+20
+19
+18
+1
+2
+4
+5
+6
+9
+7
+3
+8
+10
+17
+*Accessories and features shown may not be part of standard fitment.
+----------------------------------------
+
+CHUNK 8
+Page: 7
+Content Length: 500 characters
+Content:
+4
+#
+(9) Front brake disc 
+(11) Headlamp
+#
+(8) Caliper assembly
+(12) Front visor
+(10) Front turn signal lamp
+(7) Starter motor
+(16) Rear shock absorber
+(13) Throttle body
+(15) Seat
+(17) Exhaust muffler 
+(14) ECU (inside)
+(2) Brake fluid reservoir#
+(4) Kick starter pedal
+(6) Oil level dipstick
+(5) Brake pedal
+(1) CBS Actuator (inside)#
+(3) Right side cover
+11
+12
+*Accessories and features shown may not be part of standard fitment.
+4
+17
+RIGHT SIDE VIEW
+#
+Disc Variant
+15
+14
+13
+10
+16
+3
+1
+4
+7
+8
+9
+6
+5
+2
+----------------------------------------
+
+CHUNK 9
+Page: 8
+Content Length: 891 characters
+Content:
+5
+VEHICLE SPECIFICATION
+Engine oil
+Fuel tank capacity
+Maximum power
+Maximum torque
+Bore and stroke
+Compression ratio
+Displacement
+Spark plug gap
+Valve clearance
+Idle speed
+Front suspension
+Rear suspension
+Caster angle
+0.95 litre at disassembly and 0.75 litre at draining
+12 litres 
+8 kW @ 7500 r/min
+10.6 N-m @ 6000 r/min
+52.4x57.8 mm
+9.9:1
+124.7 cc
+0.8-0.9 mm
+0.08 mm 
+0.12 mm 
+1400±100 r/min
+Telescopic hydraulic shock absorbers
+Swingarm with 5 step adjustable hydraulic shock 
+absorbers
+26°
+Capacities 
+Engine
+Intake (cold)
+Exhaust (cold)
+Chassis and suspension
+Spark plug
+SPECIFICATIONS
+ITEM
+Dimensions
+Overall length
+Overall width
+Overall height
+Wheelbase
+Saddle height
+Ground clearance
+2042 mm
+740 mm 
+1102 mm
+1267 mm
+799 mm
+180 mm
+122 kg 
+Weight
+NGK-CPR 7EA9, RG8YC (Federal Mogul)
+714 mm 
+Disc-Drum
+Drum-Drum
+Kerb weight
+123 kg 
+Disc-Drum
+Drum-Drum
+Payload
+130 kg 
+Trail length
+92 mm
+----------------------------------------
+
+CHUNK 10
+Page: 9
+Content Length: 1082 characters
+Content:
+6
+VEHICLE SPECIFICATION
+SPECIFICATIONS
+ITEM
+*MF stands for Maintenance Free
+**MFR stands for Multi-Focal Reflector
+Side stand indicator
+i3s indicator
+Fuse
+15A, 10A, 10A, 10A
+Programmed FI Malfunction indicator lamp (MIL)
+Front
+Rear
+Primary reduction
+Final reduction
+st
+Gear ratio, 1
+rd4
+th5
+Transmission 
+nd2
+Brakes
+Front (Drum variant)
+Tyre size
+Front (Disc variant)
+Rear  (Drum variant)
+Dia. 
+ mm
+240
+Dia. 1
+ mm
+30
+80/100-18 47P (Tubeless tyre)
+90/90-18 51P (Tubeless tyre) 
+Dia. 1
+ mm
+30
+3.071 (43/14)
+Battery
+Alternator
+Starting system
+Headlamp (High/Low)
+Tail/Stop lamp
+Turn signal lamp
+12V-21/5W-**MFR
+Kick/Electric tart        
+s
+12V-35W/35W Halogen bulb-**MFR
+12V-10Wx4 (Amber bulb) with clear lens-**MFR
+*MF battery 12V-4Ah/ETZ5
+1
+ W @ 5000 
+40
+r/min
+Electricals
+Meter illumination
+Neutral indicator
+Turn signal indicator
+LED
+LED
+LED
+LED
+LED
+LED
+LED
+LED
+Hi beam indicator
+3.35 (67/20)
+3.17 (38/12)
+1.83 (33/18)
+1.04 (26/25)
+0.923 (24/26)
+rd3
+1.272 (28/22)
+Transmission
+5 speed transmission
+Front & rear wheels
+Cast wheels
+15A, 10A
+Circuit fuse
+Spare fuse
+Low fuel indicator
+----------------------------------------
+
+CHUNK 11
+Page: 10
+Content Length: 2328 characters
+Content:
+ACCESSORIES & MODIFICATIONS
+Modifying your vehicle or using non-Hero 
+MotoCorp accessories can make your vehicle 
+unsafe. Before you consider making any 
+modifications or adding an accessory, be sure 
+to read the following information. 
+operation. Such changes could seriously 
+impair your vehicle's handling, stability and 
+braking, making it unsafe to ride. Removing or 
+modifying your lamps, mufflers, emission 
+control system or other equipment can also 
+make your vehicle illegal.
+• Always lock the steering and never leave the 
+key in the ignition switch. This sounds 
+simple but people do forget.
+• Park your vehicle in a locked garage 
+whenever possible.
+• Use an additional anti-theft device of good 
+quality.
+• Enter your name, address and phone 
+number in this Owner's Manual and keep it 
+in your vehicle at all times. Many times 
+stolen vehicles are identified by information 
+in the Owner's Manuals that are still with 
+them.
+• Never park your vehicle in an isolated area. 
+Park as far as possible in a designated area.
+• Be sure the registration information for your 
+vehicle is accurate and correct.
+ANTI-THEFT TIPS
+_______________________________________________________
+_______________________________________________________
+_______________________________________________________
+PHONE NO : _____________________________________
+NAME: _____________________________________________
+ADDRESS: _______________________________________
+Accessories
+Modifications
+We strongly advise you not to remove any 
+original equipment or modify your vehicle in 
+any way that would change its design or 
+• Do not pull a trailer or sidecar with your 
+vehicle. This vehicle was not designed for 
+these attachments, and their use can 
+seriously impair your vehicle's handling.
+• Be sure electrical equipment does not 
+exceed the 
+'s electrical system 
+vehicle
+capacity (page 6). A blown fuse can cause a 
+loss of lights.
+• Make sure that the accessory does not 
+obscure any lamps, reduce ground 
+clearance, limit suspension travel or steering 
+travel, affect your riding position or interfere 
+with operating any controls.
+• Improper accessories or modifications can 
+cause a crash in which you can be seriously 
+hurt or killed.
+• Follow all instructions in this owner's manual 
+regarding accessories and modifications.
+WARNING
+!
+7
+----------------------------------------
+
+CHUNK 12
+Page: 11
+Content Length: 2291 characters
+Content:
+Take time to learn & practice your 
+vehicle
+Your vehicle can provide many years of 
+service and pleasure if you take responsibility 
+for your own safety and understand the 
+challenges you can meet on the road. It is a proven fact, helmet significantly reduces 
+the number and severity of head injuries. So 
+always wear a helmet and make sure your 
+pillion rider does the same. We also 
+recommend that you wear eye protection, 
+sturdy boots, gloves and other protective gear. Before riding your vehicle
+Make sure that you are physically fit, mentally 
+focused and free of alcohol and drugs. Check 
+that you and your pillion are both wearing an 
+approved vehicle helmet and protective 
+apparel. Instruct your pillion on holding onto 
+the grab rail or your waist, leaning with you in 
+turns, and keeping their feet on the footrest, 
+even when the vehicle is stopped. IMPORTANT SAFETY INFORMATION
+There is much that you can do to protect 
+yourself when you ride. You will find many 
+helpful recommendations through out this 
+manual. Following are a few that we consider 
+most important. Always wear a helmet
+Even if you have ridden other vehicles, 
+practice riding in a safe area to become 
+familiar with how this vehicle works and 
+handles, and to become accustomed to the 
+vehicle's size and weight. VEHICLE SAFETY
+Always pay due attention to other vehicles 
+around you, and do not assume that other 
+drivers see you. Be prepared to stop quickly or 
+perform an evasive maneuver. Some drivers do not see vehicles because they 
+are not looking for them. To make yourself more 
+visible, wear bright reflective clothing, position 
+yourself so that others can see you, signal before 
+turning or changing lanes, and use horn which 
+will help others to notice you. Do not drink and ride
+Ride defensively
+Make yourself easily visible
+Ride within your limits
+Pushing the limits is another major cause of 
+vehicle accidents. Never ride beyond your 
+personal abilities or faster than conditions 
+demand. Remember that fatigue and 
+negligence can significantly reduce your ability 
+to make good judgements and ride safely. Riding under the influence of alcohol or drugs 
+is dangerous. Alcohol can reduce your ability 
+to respond to changing conditions and reduce 
+the reaction time. Do not drink and ride.
+----------------------------------------
+
+CHUNK 13
+Page: 11
+Content Length: 264 characters
+Content:
+Keep your vehicle in safe condition
+For safe riding, its important to inspect your 
+vehicle before every ride and perform all 
+recommended maintenance. Never exceed 
+load limits, and use accessories that have been 
+recommended by Hero MotoCorp for this 
+vehicle. 8
+----------------------------------------
+
+CHUNK 14
+Page: 12
+Content Length: 2218 characters
+Content:
+Your helmet is your most important piece of 
+riding gear because it offers the best 
+protection against head injuries. A helmet 
+should fit your head comfortably and securely. A bright coloured helmet can make you more 
+noticeable in traffic, as can reflective strips. In addition to a helmet and eye protection, we 
+also recommend:
+• Leather gloves to keep your hands warm 
+and help prevent blisters, cuts, burns, and 
+bruises. An open-face helmet offers some protection, 
+but a full-face helmet offers more. Always 
+wear face shield or goggles to protect your 
+eyes and help your vision. Additional riding gear
+Helmets and eye protection
+• Sturdy boots with non-slip soles to help 
+protect your feet and ankles. • A two wheeler riding suit or jacket for 
+comfort as well as protection. Bright 
+coloured reflective clothing can help make 
+you more noticeable in traffic. Be sure to 
+avoid loose clothes that could get caught on 
+any part of your vehicle. PROTECTIVEAPPAREL
+ 
+Following are suggestions to help you choose 
+proper riding  gear. Personal safety is your first priority. If you or 
+anyone else has been injured, take time to 
+assess the severity of the injuries and whether 
+it is safe to continue riding. Call for emergency 
+assistance if needed. Also follow applicable 
+laws and regulations if another person or 
+vehicle is involved in the crash. If you decide to continue riding, first evaluate 
+the condition of your vehicle. If the engine is 
+still running, turn it off. Inspect for fluid leaks, 
+check the tightness of critical nuts and bolts, 
+and check the handlebar, brake levers, brakes, 
+and wheels. Ride slowly and cautiously. Your 
+vehicle may have suffered damage that is not 
+immediately apparent. Have your vehicle 
+thoroughly checked at a qualified service 
+facility as soon as possible. If you are involved in a crash
+For your safety, we strongly recommend that 
+you always wear an approved helmet (ISI 
+marked), eye protection, boots, gloves, long 
+pants and a long sleeve shirt or jacket 
+whenever you ride. Take care of loose/ 
+hanging clothes while solo/pillion riding. Although complete protection is not possible, 
+wearing proper gear can reduce the chance of 
+injury when you ride.
+----------------------------------------
+
+CHUNK 15
+Page: 12
+Content Length: 209 characters
+Content:
+• Not wearing a helmet increases the chance of 
+serious injury or death in a crash. • Be sure you and your pillion always wear a 
+helmet, eye protection and other protective 
+apparel when you ride. WARNING
+! 9
+----------------------------------------
+
+CHUNK 16
+Page: 13
+Content Length: 2056 characters
+Content:
+• To make yourself more visible, wear bright 
+reflective clothing that fits well.
+• Always conduct simple pre-ride inspection 
+(page 28).
+• Respect road signs and obey traffic rules for 
+your own safety and that of others on the 
+road (page 71).
+• Always wear a helmet (ISI marked) with 
+chin strap securely fastened and insist on a 
+helmet for your pillion rider.
+• Give way to others on the road and signal 
+before you make a turn.
+• To stop the vehicle (in IBS), press the rear 
+brake pedal for the application of front and 
+rear brakes simultaneously. However, for 
+more effective braking, use both brakes 
+simultaneously, keeping throttle in the 
+closed position.
+• Before riding make sure in which mode you 
+are riding whether with i3s switch “ON” or 
+“OFF”.
+• Ride defensively and at a steady speed 
+(between 40-50 km/hr).
+• While riding, sit in a comfortable position 
+with your legs close to fuel tank.
+• During night time, dip headlamps of your 
+vehicle for oncoming traffic, or when 
+following another vehicle.
+• Tightly wrap loose/hanging clothes & avoid 
+entangling with moving parts.
+Do's:
+• Get your vehicle serviced regularly by the 
+Authorised Hero MotoCorp workshop.
+Don't
+• Never use cell phone while riding the      
+vehicle.
+• Avoid sudden acceleration, braking and 
+turning of your  vehicle.
+• Never ride under the influence of alcohol or 
+drugs.
+• Do not litter the road.
+• Never shift gears without disengaging the 
+clutch and closing the throttle.
+• Do not cross the continuous white/yellow 
+line in the center of the road, while 
+overtaking.
+• Never touch any part of the hot exhaust      
+system like muffler.
+• Do not attach large or heavy items to the      
+handlebars, front forks, or fenders.
+• Never take your hands off the steering 
+handle while riding.
+• Do not move the side stand down while 
+riding, as engine will stop while vehicle is in 
+gear (page 23) (Wheel locking leading to 
+accident, part damage etc.).
+• Concentrate on the road and avoid talking 
+to the pillion rider or others on the road.
+SAFE RIDING TIPS
+10
+----------------------------------------
+
+CHUNK 17
+Page: 14
+Content Length: 1491 characters
+Content:
+11
+The following tips shall ensure a healthy vehicle, healthy environment, and a healthy you.
+• Emission pollution: Get emission of your vehicle checked by Authorised agencies atleast 
+once every 3 months or as notified by the government from time to time.
+• Genuine engine oil: Hero 4T Plus SAE 10W 30 SL grade (JASO MA2) engine oil 
+recommended by Hero MotoCorp and make sure you change it every 6000 km. (with 
+top up every 3000 kilometres) to keep the engine fit and environment healthy.
+• Healthy engine: The engine is the lifeline of every vehicle. To keep it healthy, it should be 
+tuned regularly, which will also help reduce pollution and improve vehicle performance & 
+fuel efficiency.
+• Genuine spares: Always insist on Hero MotoCorp genuine parts as spurious or 
+incompatible spares and accessories can upset or deteriorate your vehicle’s running 
+condition.
+• Noise pollution : Noise beyond a certain decibel is pollution. Whether it is from horns or 
+defective mufflers, excessive noise will cause headaches and discomfort.
+• Fuel saving & Reduce pollution : Switch "OFF" the engine while waiting at traffic signal 
+points to save fuel and reduce pollution, if the waiting period is long.
+• BS-VI grade fuel : Always use BS-VI grade fuel to adhere BS-VI norms. 
+• Regular servicing: Get your vehicle serviced at an Authorised Hero MotoCorp 
+workshop, as per the service schedule, for an optimum performance and keep the emission 
+level under check.
+TIPS FOR HEALTHY ENVIRONMENT
+----------------------------------------
+
+CHUNK 18
+Page: 15
+Content Length: 663 characters
+Content:
+12
+Key cannot be removed
+Engine cannot be started and no electrical 
+system will be functional.
+Key can be removed
+Key can be removed
+Key removal
+Steering can be locked.
+Function
+Key position
+ “LOCK”
+“ON” (   ) 
+“OFF”(   ) 
+1
+(1) Ignition switch
+(2) Ignition key
+(3) Steering lock position
+PARTS FUNCTION
+Ignition switch
+“LOCK” position
+“ON” (    )
+position
+“OFF”(    ) 
+position/
+Lock open
+2
+3
+The engine can be started, turn signal lamps, 
+horn, tail/stop lamp and passing switch can be 
+operated. Fuel gauge, odometer and tripmeter 
+reading will be functional. Programmed FI 
+malfunction indicator lamp (MIL) illuminates 
+and i3s indicator glows for 2 seconds.
+----------------------------------------
+
+CHUNK 19
+Page: 16
+Content Length: 1060 characters
+Content:
+S
+M
+13
+The indicators are in the speedometer panel 
+above the headlamp. The functions are as 
+below.
+Instruments and Indicators
+Sl. No.
+Description
+Function
+Light glows when headlamp is in Hi beam.
+High beam indicator 
+9
+1
+2 3
+4
+6
+8
+12
+13
+14
+15
+16
+Turn signal indicator
+Indicates the turn signal lamp operation to the rider.
+Low fuel indicator
+Light glows when the fuel quantity is low (page 17).
+1
+2
+3
+Speedometer
+Indicates driving speed. 
+4
+Shows the distance travelled during a trip. 
+Tripmeter
+Shows accumulated distance travelle
+ 
+d (page 16).
+Odometer
+5
+6
+5
+11
+Set button
+To adjust clock & tripmeter. 
+When long pressed, resets tripmeter to zero.
+Mode button
+Switches display between odometer, tripmeter & RTMI.
+8
+9
+Display when the next service is due (page 18).
+Service reminder 
+indicator
+10
+11
+Digital clock
+Indicates hours & minutes (page 15).
+7
+It indicates the current mileage of the vehicle (in km/litre). 
+The indication will change after every 3 seconds 
+depending upon the driving condition. (page 17).
+Real time mileage 
+indicator (RTMI)
+7
+10
+----------------------------------------
+
+CHUNK 20
+Page: 17
+Content Length: 790 characters
+Content:
+14
+Sl. No.
+Description
+Function
+16
+13
+lamp (MIL)
+Programmed-FI 
+malfunction indicator 
+When the ignition switch is turned “ON” the programmed 
+FI malfunction indicator lamp (MIL) glows continuously 
+and then should go “OFF” once the engine is started. It 
+indicates that programmed FI system is OK. If it glows 
+continuously there is an abnormality in the programmed 
+FI system, it is recommended to reduce the speed and 
+drive to the Authorised Hero MotoCorp workshop for 
+check-up.
+Neutral indicator
+Light glows when vehicle is in neutral.
+Light glows when the vehicle is parked on the side stand.
+Side stand indicator
+i3s indicator 
+Indicator glows for 2 seconds and turns “OFF”
+indicating that i3s system is functional.
+14
+15
+Fuel gauge
+Indicates approximate fuel quantity (page 17).
+12
+----------------------------------------
+
+CHUNK 21
+Page: 18
+Content Length: 1224 characters
+Content:
+15
+km/l
+0
+20
+40
+l00
+l20
+l40
+km /h
+F
+E
+am
+ODO
+TRIP
+AV
+.
+S
+M
+10:30
+• The time is advanced by 1 hour  
+each time the button is pressed.
+• "pm" will change to "am" (before 
+midday).
+• "am" will change to "pm" (after midday).
+• The time advances fast when the  
+button is pressed and held.
+• To set the hour, press set button (2) until 
+the desired hour is displayed.
+(a) Digital clock
+• Press and hold set button (2) and mode 
+button (3) simultaneously for more than 2 
+seconds. The clock will be set in the adjust 
+mode with the hour's digit display blinking.
+LCD PANEL
+• Turn the ignition switch "ON" (   ).
+Digital clock (1) shows hour and minute. To 
+adjust the time, proceed as follows :
+(1) Digital clock       (2) Set button 
+(3) Mode button
+1
+2
+• Press the mode button (3). The minutes 
+display starts blinking.
+• To set the minute press set button (2) until 
+the desired minute is displayed. The minute 
+display will return to 
+when 
+is 
+" " 
+" " 
+reached without affecting the hour display.
+• The time advances by 1 minute, each 
+time the button is pressed.
+(2) Set button
+(3) Mode button
+3
+km/l
+0
+20
+40
+l00
+l20
+l40
+km /h
+F
+E
+am
+ODO
+TRIP
+AV
+.
+S
+M
+12:30
+2
+km/l
+0
+20
+40
+l00
+l20
+l40
+km /h
+F
+E
+am
+ODO
+TRIP
+AV
+.
+S
+M
+12:30
+3
+----------------------------------------
+
+CHUNK 22
+Page: 19
+Content Length: 965 characters
+Content:
+km/l
+0
+20
+40
+l00
+l20
+l40
+km /h
+F
+E
+am
+ODO
+TRIP
+AV
+.
+S
+M
+12:45
+16
+(2) Set button
+• To end the adjustment press mode button 
+(3). The display will stop flashing 
+automatically and it will return to its 
+pervious value if the button is not pressed 
+for 30 seconds or more.
+NOTE
+The clock will reset “AM: 
+“ if the battery is 
+disconnected.
+• The time advances fast when the button is 
+pressed and held.
+The odometer (1) shows accumulated 
+distance travelled. The odometer can be 
+selected by pressing the mode button (2).
+(b) Odometer
+(c) Tripmeter
+The tripmeter (1) shows distance travelled 
+per trip. The tripmeter can be reset to zero by 
+pressing the set button (2) for more than 2 
+seconds. The tripmeter can be selected by 
+pressing the mode button (3).
+2
+km
+0
+20
+40
+l00
+l20
+l40
+km /h
+F
+E
+pm
+ODO
+S
+M
+am
+00:00
+(1) Odometer      (2) Mode button
+1
+2
+km
+0
+20
+40
+l00
+l20
+l40
+km /h
+F
+E
+pm
+TRIP
+S
+M
+am
+00:00
+0.3
+(1) Tripmeter       (2) Set button 
+(3) Mode button
+1
+3
+2
+----------------------------------------
+
+CHUNK 23
+Page: 20
+Content Length: 1392 characters
+Content:
+When the ignition switch is turned “ON” (   ) 
+position, the real time mileage indicator will 
+temporarily show the digit "88888.8" which 
+indicates that all the digital LCD segments are 
+working. The display range is from (0 to 120 
+km/litre).
+17
+The real time mileage indicator (RTMI) (1) 
+shows the current mileage of the vehicle in 
+km/litre and is refreshed after every 3 
+seconds. The real time mileage indicator 
+(RTMI) can be selected by pressing the mode 
+button (2).
+(d) Real time mileage indicator (RTMI)
+The fuel consumption shall be displayed when 
+the speed of the vehicle is more than 5±2 
+km/hr. If the speed is less than 5±2 km/hr 
+"---.-" shall be displayed.
+km/l
+0
+20
+40
+l00
+l20
+l40
+km /h
+F
+E
+pm
+AV
+S
+M
+am
+00:00
+0.0
+(1) Real Time Mileage Indicator (RTMI)
+(2) Mode button
+1
+2
+The RTMI shows a minimum value of  
+0.0km/litre and maximum value of   
+120 km/litre. During coasting with throttle 
+fully closed, the fuel consumption is very 
+minimal and hence the display can go up to         
+120
+S
+M
+(e) Fuel gauge
+The fuel gauge (1) is of a Liquid Crystal 
+Display (LCD) type.
+(1) Fuel gauge                   (2) Segments
+1
+2
+The approximate amount of fuel quantity 
+available in the fuel tank is indicated by the 
+number of segments (2) in the display. 
+Low fuel indicator (1) is a warning indicator 
+for the user to fill the fuel as soon as possible.
+(f) Low fuel indicator
+----------------------------------------
+
+CHUNK 24
+Page: 21
+Content Length: 1073 characters
+Content:
+18
+Please ensure the vehicle is not used with low 
+fuel indicator glowing continuously. It will not 
+only result in the vehicle running out of fuel, it 
+may also cause serious damage to the fuel 
+pump, Please ensure fuel is filled up as soon as 
+the low fuel indicator stats glowing.
+CAUTION
+!
+NOTE
+To check the fuel level indication, the vehicle 
+should be on levelled surface and in stationary 
+condition.
+(1) Low fuel indicator
+1
+(g) Service reminder indicator 
+The service reminder indicator (1) is to 
+indicate user to bring the vehicle to an 
+Authorised Hero MoroCorp workshop for 
+service. The indicator shall start blinking when 
+the vehicle covers kilometers as specified in 
+the maintenance schedule. The indicator will 
+keep on blinking throughout the kilometer 
+interval for a particular service and will stay 
+“ON” thereafter. The Service Reminder 
+Indicator can be reset at an Authorised Hero 
+MoroCorp workshop.
+NOTE
+NOTE
+After getting the vehicle serviced, make sure 
+that the Service Reminder Indicator has been 
+reset.
+(1) Service reminder indicator
+S
+M
+1
+----------------------------------------
+
+CHUNK 25
+Page: 22
+Content Length: 1226 characters
+Content:
+19
+FEATURES
+Steering lock
+Steering lock with ignition switch, turn the 
+ignition key (1) to “OFF” (   ) position & turn 
+the handlebar towards left or right & push the 
+key downwards & turn towards “LOCK” 
+position. After locking take out the ignition 
+key.
+(1) Ignition key
+1
+HANDLEBAR SWITCHES CONTROL
+Gives an indication for passing ahead.
+Left handlebar controls
+1. Passing switch
+Press passing lamp switch(1) to operate the 
+passing lamp.
+2. Clutch switch
+There is a clutch switch (2) provided for the 
+safety of the rider. The vehicle cannot be 
+started by electric starter switch until the clutch 
+lever is operated when the vehicle is engaged 
+in gear.
+(1) Passing switch            (2) Clutch switch
+2
+1
+3. Headlamp dimmer switch
+The headlamp operates only when the engine 
+is running or when passing switch is operated.
+Select “       ” for high beam and “       ” for 
+low beam.
+Shift the turn signal lamp switch (4) sideways 
+for right/left indications and leave it to come 
+back to its normal position on its own.
+IMPORTANT: To switch “OFF” the turn 
+signal after completing the turn, gently push 
+inside. 
+4. Turn signal lamp switch (       )
+Press the horn switch (5) to operate the horn.
+5. Horn switch (     )
+----------------------------------------
+
+CHUNK 26
+Page: 23
+Content Length: 1015 characters
+Content:
+20
+Right handlebar controls
+Ensure starter switch (1) is operated when the 
+vehicle is in neutral gear. If the vehicle is 
+engaged in gear, press the clutch lever before 
+operating the starter switch. Release starter 
+switch after the engine has started.
+1. Electric starter switch (    )
+5
+(3) Headlamp dimmer switch 
+(4) Turn signal lamp switch  (5) Horn switch
+3
+4
+• If electric starter switch is pressed 
+continuously and engine does not start, 
+cranking of engine will stop after 5 secs. 
+After that rider again needs to press the 
+electric starter switch. 
+• If engine started, cranking of the engine will 
+stop after r/min reaches more than 1000 
+r/min under normal condition.
+CAUTION
+!
+(1) Electric starter switch       (2) i3s switch
+2
+i3s (IDLE STOP START SYSTEM)
+Turn the ignition key to “ON” (    ) position.
+2. i3s switch
+Starting & Warm up the engine:
+There is an i3s switch 
+provided to enable 
+(2) 
+the rider for turning i3s mode “ON” or “OFF” 
+based on the traffic conditions.
+(1) i3s indicator
+1
+1
+----------------------------------------
+
+CHUNK 27
+Page: 24
+Content Length: 1914 characters
+Content:
+21
+(2) i3s switch
+Initial activation of the i3s system: 
+Keep the i3s switch (2) to “ON” position. The i3s indicator (1) will glow on the 
+speedometer console for 2 seconds and turn 
+“OFF”. For the activation of i3s system, start 
+the engine and let it idle till the engine gets 
+warmed up or temperature reaches more than 
+55°C. Turn the ignition key to “ON” (   ) position. The i3s indicator on the speedometer console 
+will glow for 2 seconds and turn “OFF”. Start 
+the vehicle (in neutral and clutch lever released 
+condition) with less than 2000 r/min and let 
+it idle till engine temperature reaches more 
+than 55°C. The engine will cut-off in 30 
+seconds. After the first stop start, every 
+subsequent stop will be in 5 seconds. In this condition, the engine can be restarted 
+either with clutch lever, kick or electric start. 2
+off in 5 sec
+. (The vehicle should be in
+onds
+ 
+stand still condition, with
+ gear position
+ neutral
+ 
+at
+ th n
+ clutch
+ less
+a  2000 r/min with
+ 
+lever/throttle is in released position and 
+engine is warmed up  The i3s indicator will 
+). be continuously blinking in the speedometer 
+indicating that vehicle stopped in i3s 
+condition. By pressing the clutch lever, the 
+engine will start again and gear can be 
+engaged to move the vehicle. While driving, if the engine is kept idling (while 
+waiting in a traf c signal), the engine will cut 
+fi
+Driving with i3s switch in “ON” position:
+NOTE
+• If all the required i3s conditions are met, 
+i3s indicator will glow for 5 secs before the 
+engine cuts-off. • If vehicle stops in i3s condition and kept idle 
+for more than 500 secs (ignition switch is 
+“ON” position) i3s function will be 
+deactivated and cannot be started by 
+pressing the clutch lever, rider can only 
+start the vehicle with electric or kick start. • If engine is stopped by any means other than 
+i3s function, i3s indicator will not 
+glow/blink in the speedometer.
+----------------------------------------
+
+CHUNK 28
+Page: 24
+Content Length: 130 characters
+Content:
+In this 
+condition, vehicle will not start by pressing 
+the clutch lever. Vehicle can be started by 
+using kick or electric start.
+----------------------------------------
+
+CHUNK 29
+Page: 25
+Content Length: 1768 characters
+Content:
+22
+• If the battery is in healthy condition and the 
+i3s system does not work properly, it is 
+recommended to visit your Authorised Hero 
+MotoCorp workshop. • If vehicle diagnoses with any problem in 
+electronic control unit (ECU) the i3s function 
+will not work. • i3s system will not function properly if the 
+vehicle battery is low/dead or driven without 
+battery. Driving with i3s switch in “OFF” position:
+While driving in a traffic jam/or very dense 
+traffic where the vehicle has to encounter a 
+stop and go situation, the i3s switch can be 
+changed to “OFF” position. Once this is done, 
+ 
+the i3s system will not work and the vehicle 
+ 
+will be in normal operatingconditions as other
+ 
+ 
+vehicles and no special functions will be 
+performed. • If the low battery voltage is detected while 
+the ignition key is in “ON” position or engine 
+is in running condition, the i3s function will 
+be deactivated or may not function properly 
+until the rider turns the ignition switch to 
+"OFF" (    ) position and then back to "ON"     
+(    ) position. •
+ i3s function 
+If the vehicle has fallen down,
+may not work properly.B efore restarting the 
+engine you must turn the ignition switch to 
+“OFF
+ position and then back to “ON
+” (    )
+”     
+(    ) position. • The i3s system will not function if rider puts 
+the i3s switch to”OFF” position. • If the battery voltage is low and engine r/min 
+is less than 2000, there will be 3 continuos 
+blinks after every 6 secs. • If the vehicle is driven without battery or with 
+the dead battery and the engine r/min is less 
+than 2000  . The i3s indicator on the 
+speedometer will 
+ continuously
+blink
+ at every 
+1.5 secs. NOTE
+SIDE STAND INDICATOR/SWITCH
+For the safety of the customer a side stand 
+indicator (1) is provided.
+----------------------------------------
+
+CHUNK 30
+Page: 25
+Content Length: 226 characters
+Content:
+(1) Side stand indicator
+A side stand switch (2) is provided in the side 
+stand, when the side stand is down (ignition 
+switch “ON” (   )), the switch enables the side 
+stand indicator lamp to glow on the 
+speedometer panel. 1
+----------------------------------------
+
+CHUNK 31
+Page: 26
+Content Length: 1228 characters
+Content:
+23
+(2) Side stand switch     (3) Side stand spring
+2
+3
+Ensure that adequate care should be taken 
+while cleaning the side stand switch.
+CAUTION
+!
+Ÿ Check whether the side stand indicator (1) 
+glows when the side stand is down.
+Ÿ While the vehicle is removed from side 
+stand, the side stand indicator (1) should 
+not glow.
+Ÿ If the side stand indicator (1) does not 
+operate as described in above steps, please 
+visit your Authorised Hero MotoCorp 
+workshop.
+Ÿ Check the side stand for proper function 
+and the spring (3) for damage or loss of 
+tension and the side stand assembly for free 
+movement.
+This feature has following functions:
+• It prevents starting the engine when 
+transmission is in gear (irrespective of 
+clutch lever operation) and side stand is 
+down.
+Your vehicle is equipped with “Side 
+stand engine kill” feature for safety 
+purpose.
+• It stops the running engine when 
+transmission is in gear (irrespective of 
+clutch lever operation) and side stand is 
+moved down.
+WARNING
+!
+“Side stand engine kill” system is not affected 
+by clutch lever operation.
+To inspect the functionality of this feature, 
+park the vehicle on its main stand and check 
+all the conditions described in the inspection 
+flow diagram:
+----------------------------------------
+
+CHUNK 32
+Page: 27
+Content Length: 1253 characters
+Content:
+24
+INSPECTION FLOW DIAGRAM
+2. Then shift the transmission to gear (with 
+engine running and irrespective of clutch 
+lever operation).
+Does engine stop?
+Visit Authorised
+Hero MotoCorp 
+Workshop
+NO
+3. Now press the electric starter switch (After 
+engine has stopped).
+NO
+SYSTEM IS OK
+Does engine start? 
+YES
+Visit Authorised
+Hero MotoCorp 
+Workshop
+NO
+YES
+Does engine start? 
+Visit Authorised
+Hero MotoCorp 
+Workshop
+YES
+1. Turn the ignition switch to “ON” (  ) 
+position and press the electric starter 
+switch (with transmission in neutral and 
+side stand is down). 
+FUEL
+(a) Fuel tank
+Fuel tank capacity is 12 litres (Be sure to fill 
+the fuel tank when low fuel indicator glows).  
+• To remove the fuel tank cap (1), open the key 
+hole cover (2) and insert the ignition key (3) 
+turn it clockwise and remove the cap.
+2
+(1) Fuel tank cap             (2) Key hole cover  
+(3) Ignition key 
+1
+3
+If your vehicle doesn't operate as described in 
+above flow diagram, please visit your 
+Authorised Hero MotoCorp workshop.
+WARNING
+!
+Regularly inspect the functionality of "Side 
+stand engine kill” feature and in case of any 
+malfunction visit Authorised Hero MotoCorp 
+workshop.
+• Do not overfill the tank. There should be no 
+fuel (5) in the filler neck (4).
+----------------------------------------
+
+CHUNK 33
+Page: 28
+Content Length: 1601 characters
+Content:
+25
+(4) Filler neck                               (5) Fuel
+5
+4
+CAUTION
+!
+Do not park the vehicle under direct sunlight 
+as it causes evaporation of petrol due to heat 
+and deterioration of paint gloss due to ultra 
+violet rays.
+WARNING
+!
+Petrol is extremely flammable and is explosive 
+under certain conditions. Refill in a well 
+ventilated area with the engine stopped. Do 
+not smoke or allow flames or sparks in the 
+area where the vehicle is refilled or where 
+petrol is stored.
+• For locking, position the cap with “
+” mark 
+▲
+facing towards the front, back on the opening 
+and press gently. The key springs back to the 
+normal position and the cap gets locked.
+CAUTION
+!
+Please ensure the vehicle is not used with low 
+fuel indicator glowing continuously. It will not 
+only result in the vehicle running out of fuel, it 
+may also cause serious damage to the fuel 
+pump. Please ensure fuel is filled up as soon as 
+the low fuel indicator starts glowing. 
+                     
+(1) E20 sticker                     (2) Fuel tank
+ 
+1
+2
+(b) Petrol containing alcohol
+Fuel available at your location may contain 
+ethanol. Ethanol is a form of alcohol and 
+is generally mixed with petrol to reduce 
+emissions.
+   s ticker on fuel tank indicates that the 
+vehicle parts are compliant up to the blend of 
+“20% ethanol with petrol”.
+If you observe any problem related to the 
+operational performance of the vehicle, 
+contact your Authorized Hero MotoCorp 
+workshop.
+It is recommended not to use petrol containing 
+more than 20% of ethanol to avoid any 
+damage to engine and other parts of the 
+vehicle.
+E 20
+----------------------------------------
+
+CHUNK 34
+Page: 29
+Content Length: 1142 characters
+Content:
+26
+Operation : To unlock the seat, insert the 
+ignition key (1) and turn in clockwise 
+direction.  To install, engage the hook on the 
+underside of the seat with the frame and push 
+on the top rear side of the seat until 
+the lock clicks.
+(1) Ignition key                   
+1
+HELMET HOLDER
+The helmet holder is located below the 
+seat. Remove the seat. Hang the helmet on 
+the helmet holder (1) by using wire helmet 
+set (2) (optional). Install the seat (3) and 
+lock it securely.
+Location : On the rear left side of the seat, 
+below the rear cowl.
+SEAT LOCK
+WARNING
+!
+• Riding with a helmet attached to the holder 
+can interfere with the rear wheel and could 
+cause a crash in which you can be seriously 
+hurt or killed.
+• Use the helmet holder only while parked. Do 
+not ride with a helmet secured by the holder.
+WARNING
+!
+• Wipe off spills immediately. 
+• Stop the engine and keep heat, sparks and 
+flame away.
+• Refuel only outdoors.
+• Petrol is highly flammable and explosive. 
+You can be burned or seriously injured when 
+handling fuel.
+                     
+(1) Helmet holder hook    
+(2) Wire helmet set (optional)   (3) Seat
+ 
+3
+1
+2
+----------------------------------------
+
+CHUNK 35
+Page: 30
+Content Length: 1680 characters
+Content:
+27
+(1) USB charger    (2) Cap    (3) Inner panel
+To connect a mobile phone to the charger, 
+first open the cap from the USB charger and 
+then plug in the charger cable to it. Hero 
+MotoCorp will not be responsible for damages 
+caused due to use of non-standard USB cable.
+USB CHARGER 
+A USB charger (1) with a cap (2) located on 
+the left side of the inner panel (3) near meter 
+console to charge your mobile phone safely 
+while riding.
+Use of non-standard USB cable may cause 
+damage to the mobile phones. 
+3
+1
+2
+CAUTION
+!
+• Always place the device in a soft clean 
+cloth/towel to avoid any damage due to road 
+shocks while riding.
+• Multiple charging of USB devices has to be 
+avoided, simultaneous charging may lead to 
+slow or no charging.
+• Do not leave the USB device and USB cable 
+in the fuel tank cover when the vehicle is 
+parked.
+• USB port is for charging compatible USB 
+devices.
+• USB charger will not be covered under 
+warranty in case of USB charger cap 
+damage.
+• Charge your device when the engine is 
+operational/while riding.
+NOTE
+• Press the cap slightly for proper locking of 
+USB charger cap.
+• The charging time of mobile may vary, 
+depending on the mobile's battery state of 
+the charge, mobile make and conditions.
+• Do not direct water jet towards the port even 
+with cap closed to avoid any short circuit. 
+Always dry the area using a dry cloth or 
+moisture free compressed air before use.
+• Do not apply any soap solution, oil or grease 
+inside the USB charger.
+• Always keep the USB port cap closed after 
+use to prevent dust or water entry during 
+rains/water wash.
+• Any personal belongings have to be removed 
+before water washing to avoid damage.
+----------------------------------------
+
+CHUNK 36
+Page: 31
+Content Length: 2051 characters
+Content:
+28
+• Clutch-Check for smooth operation. Adjust free play if necessary (page 46). • i3s system-Make sure that i3s system is 
+functional properly (page 20). • Rear brake (Disc variant)-Check for 
+correct brake fluid level in the reservoir 
+(page 51). • Throttle-Check for smooth opening and 
+closing in all steering positions (page 47). • Rear brake- Check operation. Adjust free 
+play, if necessary (page 54). • i3s switch-Make sure whether the i3s 
+switch is in “ON” or “OFF” position   
+(page 20). • Front and Integrated brakes (Drum 
+variant)-Check operation. Adjust free play 
+if necessary (page 52). • Tyres-Check condition and pressure 
+(page 59). • Drive chain-Check condition and 
+slackness (page 48). Adjust and lubricate if 
+necessary. • Lamps and Horn-Check that headlamp, 
+tail/stop lamp, turn signal lamps and horn 
+function properly. • Rear view mirror-Ensure that the rear 
+view mirror gives a good rear view when you 
+are sitting on the vehicle. • Programmed FI malfunction indicator 
+lamp (MIL)-When the ignition switch is 
+turned “ON” the programmed FI 
+malfunction indicator lamp(MIL) glows 
+continuously and then should go “OFF” 
+once the engine is started. PRE-RIDE INSPECTION
+• Engine oil level-Check and top up engine 
+oil if required (page 39). Check for leaks. • Fuel level-Ensure sufficient fuel is available 
+in your fuel tank for your journey (page 
+17). Check for leaks. • Front brake (Disc variant)-Check for 
+correct brake fluid level in the master 
+cylinder (page 51). • Low fuel indicator-Vehicle should not be 
+operated with low fuel indicator glowing 
+continuously (page 17). You should conduct pre-ride inspection 
+before riding the vehicle to enhance riding 
+comfort and safety. Clean your vehicle 
+regularly. It protects the surface finish. Avoid 
+cleaning with products that are not specifically 
+designed for vehicle surfaces. Inspect your 
+vehicle very day before you start the engine. The items listed here will only take a few 
+minutes, and in the long run they can save 
+time, expense and possibly your life.
+----------------------------------------
+
+CHUNK 37
+Page: 31
+Content Length: 39 characters
+Content:
+Please 
+follow the tips as given below:
+----------------------------------------
+
+CHUNK 38
+Page: 32
+Content Length: 1663 characters
+Content:
+29
+NOTE
+reduce the speed and drive to the Authorised
+If MIL remains “ON” even if the vehicle is
+started, there is an abnormality in the
+programmed FI system. It is recommended to
+Hero MotoCorp workshop for check-up.
+(1) Ignition switch       (2) Programmed FI 
+malfunction indicator lamp (MIL)
+Before starting insert the key and follow the 
+below mentioned procedure :
+Preparation
+• Turn the ignition switch (1) to “ON” (   ).
+• Confirm that the programmed FI 
+malfunction indicator lamp (MIL) (2)
+glows continuously and then should go 
+“OFF” once the engine is started.
+STARTING THE ENGINE
+Always follow the proper starting procedure 
+described below :
+• To protect the catalytic converter in your 
+vehicle's exhaust system, avoid extended 
+idling and the use of leaded petrol.
+• Your vehicle's exhaust contains poisonous 
+carbon monoxide gas. High levels of carbon 
+monoxide can collect rapidly in enclosed 
+areas such as garage. Do not run the engine 
+with the garage door closed.
+Ÿ Find neutral position & check neutral 
+ N indicator (3) on instrument console 
+with ignition “ON”.
+1
+• If electric starter switch is pressed 
+continuously and engine does not start, 
+cranking of engine will stop after 5 secs. 
+After that rider again needs to press the 
+electric starter switch. 
+• If engine started, cranking of the engine will 
+stop after r/min reaches more than 1000 
+r/min under normal condition.
+• This vehicle is equipped with a side stand 
+engine kill feature (page 23).
+CAUTION
+!
+2
+• Fitting & Fasteners-Check & tighten if  
+necessary.
+• Steering-Check for smooth action for 
+easy maneuverability.
+• Side stand-Check for proper functionality 
+(page 22).
+----------------------------------------
+
+CHUNK 39
+Page: 33
+Content Length: 1484 characters
+Content:
+30
+Flooded ngine
+e
+If the engine fails to start after repeated 
+attempts, it may be flooded with excess fuel.
+• Open the throttle fully.
+• Press the starter switch for 5 seconds.
+Ignition cut off
+Ÿ If the engine starts with unstable idle, 
+open the throttle slightly.
+Ÿ If the engine does not start wait for 10 
+seconds, then follow first 3 steps again.
+(Bank angle sensor cuts off the ignition). 
+Your vehicle is designed to automatically stop 
+the engine  fuel pump, if vehicle falls down.
+&
+• Follow the normal starting procedure.
+(4) i3s switch
+4
+Starting procedure
+At any ambient temperature, Press the starter 
+switch with the throttle completely closed.
+• Make sure whether the i3s switch (4) is in 
+“ON” or “OFF” position.
+• Kick start : Depress the kick starter until 
+resistance is felt. Then let the kick starter 
+return to the top of its stroke. Kick from the 
+top of the stroke through to the bottom with 
+a rapid, continuous motion. 
+• Electric start : Press the electric starter 
+switch with fully closed throttle.
+NOTE
+• This vehicle has a fuel-injected engine with 
+an idle air control valve (IACV).
+• The engine will not start if the throttle is 
+open because the Electronic control unit 
+(ECU) cuts-off the fuel supply.
+• It is not recommended to start engine with 
+throttle.
+NOTE
+ (    ) position.
+If the vehicle has fallen down, before restarting 
+the engine you must turn the ignition switch to 
+“OFF” (   ) position and then back to “ON”
+3
+(3) Neutral indicator
+----------------------------------------
+
+CHUNK 40
+Page: 34
+Content Length: 1632 characters
+Content:
+RIDING
+• When the vehicle attains a moderate speed, 
+close the throttle, press the clutch lever and 
+ 
+nd
+shift to 
+gear by depressing the gearshift 
+2
+pedal.
+• While the engine is idling, press the clutch 
+lever and depress the gearshift pedal 
+st
+downwards using the toe to shift into 1  
+gear.
+• Slowly release the clutch lever and at the 
+same time, gradually increase engine speed 
+by opening the throttle. Coordination of the   
+throttle and clutch lever will assure a smooth 
+positive start.
+• The sequence is repeated progressively to 
+ 
+rd
+th
+th
+shift 3 4  and 5  (top gear). 
+, 
+CAUTION
+!
+Do not shift gears without operation of clutch 
+and without closing the throttle otherwise this 
+would lead to damage of gears.
+31
+BRAKING
+• For maximum deceleration/quick stopping, 
+close the throttle and apply the front and 
+rear brakes simultaneously.
+• For normal braking, close the throttle and 
+gradually apply both front and rear brakes 
+simultaneously while shifting down gears to 
+suit your road speed.
+Recommended max. operating speed in
+each gear.
+nd2  : 10-25 km/hr
+rd3   : 20-40 km/hr
+th4  : 25-50 km/hr
+st1 : 0-15 km/hr 
+ 
+th5  : 40 km/hr and above 
+WARNING
+!
+Never run the engine in a closed area, the 
+exhaust contains poisonous gases.
+Running in
+Help assure your vehicle's future reliability and 
+performance by paying extra attention to how 
+you ride during the first 500 km.
+During this period, avoid full-throttle and 
+rapid acceleration.
+NOTE
+• To start the engine if any gear is engaged, 
+press the clutch lever and press the starter 
+switch.
+• Do not open the throttle during starting the 
+vehicle.
+4
+1
+N
+2
+3
+5
+----------------------------------------
+
+CHUNK 41
+Page: 35
+Content Length: 1968 characters
+Content:
+TOOL KIT/FIRST AID KIT
+The tool kit (1) is located below the seat in the 
+rear. Some emergency repairs, minor 
+adjustments and parts replacement can be 
+performed with the tools contained in the kit.
+Kit consists of following tool:
+• Tool bag
+ 
+-1 No.
+• Grip
+  
+-1 No.
+• Box wrench 16x14-1 No.
+• +, - No. 2 Driver-1 No.
+• Pin spanner-1 No.
+32
+WARNING
+!
+CAUTION
+!
+• Park the vehicle on firm level ground to 
+prevent overturning.
+• While parking vehicle on side stand engage 
+the first gear.
+• When riding in wet or rainy conditions, or on 
+loose surfaces the ability to stop the vehicle 
+reduces.
+• When descending a long steep slope use 
+engine braking (power) by changing to lower 
+gears, with intermittent use of both brakes. 
+Continuous brake application can overheat 
+the brakes and reduce their effectiveness.
+• When riding in wet or rainy conditions, or on 
+loose surfaces, apply front brake carefully 
+after applying rear brake to avoid wheel slip.
+• Extreme braking may cause wheel locking 
+and reduce control over the vehicle.
+• Wherever possible, reduce speed or apply 
+brake before entering a turn, closing the 
+throttle or braking in mid turn may cause 
+wheel slip. Wheel slip will reduce control 
+over the vehicle.
+• All your actions should be smooth under 
+these conditions. Sudden acceleration, 
+braking or turning may cause loss of control. 
+For your safety, exercise extreme caution 
+when braking, accelerating or turning.
+PARKING
+After stopping the vehicle, shift the 
+transmission to neutral, turn the ignition 
+switch “OFF” (   ), park the vehicle on main 
+stand, lock the steering and remove the key.
+(1) Tool kit                         (2) First aid kit
+To stop the vehicle, press the rear brake pedal 
+for the application of front and rear brakes 
+simultaneously. However, for more effective 
+braking, it is advised to apply front and rear 
+brake simultaneously, keeping the throttle in 
+closed position.
+For integrated braking system (IBS)
+1
+2
+----------------------------------------
+
+CHUNK 42
+Page: 36
+Content Length: 2087 characters
+Content:
+33
+WARNING
+! • Improperly maintaining this vehicle or 
+failing to correct a problem before you ride 
+can cause a crash in which you can be 
+seriously hurt or killed. • Always follow the inspection and 
+maintenance recommendations and 
+schedules in this owner's manual. To help you, take proper care of your vehicle, 
+the following pages include a maintenance 
+schedule and a maintenance record for regular 
+scheduled maintenance. A ell-maintained vehicle is essential for safe 
+w
+economical and trouble-free riding. It will also 
+help reduce pollution. These instructions are based on the 
+assumption that the vehicle will be used 
+exclusively for its designed purpose. Sustained high speed operation or operation 
+in unusually wet or dusty conditions will 
+require more frequent service than specified in 
+the maintenance schedule. MAINTENANCE
+Consult your Authorised 
+ 
+Hero MotoCorp
+Dealer for recommendation applicable to your 
+individual needs and use. If your vehicle 
+overturns or is involved in a crash, be sure that 
+you visit your Authorised Hero MotoCorp 
+workshop for detailed inspections. I
+ 
+mportance of maintenance
+The first aid kit (2) is located below the seat in 
+the rear. For some emergency first aid can be 
+performed by medicine contained in the kit. Kit contains the following items:
+• Antiseptic cream-1No. • Sterilized dressing-1No. • Water proof plaster-1No. • Elastic bandage-1No. • Gauze (Rolled bandage)-1No. • First aid bag-1No. CLEANING AND WASHING OF VEHICLE
+Follow the below mentioned steps for washing 
+the vehicle. • Wet the vehicle with light water spray. Avoid 
+directing water meter console, muffler 
+outlets and electrical parts. • Sterilized elastic plaster-1No. • Rub the soiled area gently rinsing it 
+frequently with fresh water. • After cleaning spray water thoroughly. • Clean the headlamp lens and other plastic  
+parts using a cloth or sponge dampened 
+with a solution of mild detergent and water. • Dry the vehicle by wiping with dry soft cloth. NOTE
+• Do not use high pressure water (or air). It 
+can damage certain parts of the vehicle.
+----------------------------------------
+
+CHUNK 43
+Page: 36
+Content Length: 163 characters
+Content:
+• Our authorised dealership take all above 
+mentioned precautions like recommended 
+detergents and usage of muffler caps/plugs 
+during wash to ensure quality wash.
+----------------------------------------
+
+CHUNK 44
+Page: 37
+Content Length: 1972 characters
+Content:
+34
+SAFETY PRECAUTIONS
+• Carbon monoxide poisoning from 
+engine exhaust.
+• Make sure the engine is “OFF” before you 
+begin any maintenance or repair. This will 
+help to eliminate several potential hazards:
+  Be sure there is adequate ventilation 
+whenever you operate the engine.
+• Burns from hot parts.
+  Let the engine and exhaust system cool 
+before touching.
+• Injury from moving parts.
+• Read the instruction before you begin and 
+make sure you have the tools and skills 
+required.
+      Do not run the engine unless instructed 
+to do so.
+• To reduce the possibility of a fire or 
+explosion, be careful when working around 
+petrol or batteries. Use only nonflammable 
+solvent, not petrol, to clean parts. Keep 
+cigarettes, sparks and flames away from the 
+battery and all fuel-related parts.
+• To help prevent the vehicle from falling 
+over, park it on a firm, level surface on the 
+main stand.
+To ensure best quality and reliability, it is 
+recommended to use Hero MotoCorp 
+genuine parts for repair and replacement.
+Remember that your Authorised Hero 
+MotoCorp workshop knows your vehicle best 
+and is fully equipped to maintain and repair it.
+WARNING
+!
+• Failure to follow maintenance instructions 
+and precautions properly can seriously 
+injure you. 
+• Always follow the procedures and precautions  
+in this owner's manual.
+This section includes instructions on some 
+important maintenance tasks. You can 
+perform some of these tasks with the tools 
+provided (if you have basic mechanical skills).
+Other tasks that are more difficult and require 
+special tool. It is recommended that wheel 
+removal should normally be handled by a Hero 
+MotoCorp authorised workshop.
+You will come across some of the most 
+important safety precautions in the following 
+pages of this manual. 
+However, we cannot warn you of every 
+conceivable hazard that can arise in 
+performing maintenance. Only you can decide 
+whether or not you should perform a given 
+task.
+Maintenance safety
+----------------------------------------
+
+CHUNK 45
+Page: 38
+Content Length: 2080 characters
+Content:
+35
+Note-1 : At higher odometer readings, repeat  the frequency interval established here.
+Note-9 : Inspect for any play in the rear suspension mounting bushes, replace if necessary.
+Note-5 : Replace brake fluid once in a every 2 years or 30000 km, whichever is earlier.
+Note-11 : Inspect the canister hoses for deterioration, damage or loose connections and 
+canister for cracks or other damages. 
+Note: Always wipe the water from the vehicle after washing. Use clean soft cloth or 
+pressurized air for completely drying the water.
+ 
+In the interest of safety, we recommend that these jobs are carried out only by your 
+Authorised Hero MotoCorp workshop.
+Note-2 : Replace air cleaner element once in every 15000 km or early replacement may 
+be required when riding in dusty areas.
+Note-6 : Inspect & maintain specified torque.
+Note-8 : Replace front fork oil once in a every 2 years or 30000 km, whichever is earlier.
+Note-3 : Replace engine oil once in every 6000 km. Top up once in every 3000 km.
+Perform the pre-ride inspection (page 28) at each scheduled maintenance period.
+The following maintenance schedule specifies all maintenance required to keep your vehicle in 
+peak operating condition. Maintenance work should be performed in accordance with 
+standards and specifications of Hero MotoCorp by properly trained and equipped 
+technicians. Your Authorised Hero MotoCorp workshop meets all of these requirements.
+Note-4 : Visit Authorised Hero MotoCorp workshop for inspection, cleaning, lubrication  
+and adjustment of drive chain at every 2000 km.
+ 
+To be serviced by your Authorised Hero MotoCorp workshop unless the owner has 
+the relevant tools, technical information and is technically qualified.
+I: INSPECT      C: CLEAN      R: REPLACE      A: ADJUST       O: OIL CHANGE  
+L:LUBRICATE   T: TOP UP    E: EMISSION CHECK
+MAINTENANCE SCHEDULE
+Note-7 : Inspect the bearings free play, replace if necessary.
+Note-10 : Check CO emission at idle.
+Ensure that each paid service is availed within 90 days or 3000 km from the date of previous 
+service, whichever is earlier.
+----------------------------------------
+
+CHUNK 46
+Page: 39
+Content Length: 1179 characters
+Content:
+36
+Dear Customer,
+ 
+We would strongly recommend the following schedule, to keep your vehicle in 
+perfect running condition and healthy environment. Vehicle subjected to severe use or ridden 
+in dusty area will require more frequent servicing. 
+MAINTENANCE SCHEDULE
+Fuel Line
+I
+I
+I
+I
+I
+3000-
+3500
+6000-
+6500
+9000-
+9500
+12000-
+12500
+WHICHEVER
+COMES FIRST
+ITEMS
+DURING FREE SERVICE PERIOD
+SERVICE
+st1
+nd
+2
+rd3
+th4
+th5
+AFTER FREE SERVICE
+ONCE IN EVERY
+6000
+9000 12000 15000
+DAYS
+KM Note-1
+500-
+750
+3000
+Next 
+100
+Next 
+100
+Next 
+100
+1st 60
+Next 
+100
+I
+Throttle Operation
+I, A
+I, A
+I, A
+I, A
+I, A
+I, A
+Air Cleaner Element
+Spark Plug
+Valve Clearance
+Engine Oil
+Engine Oil Strainer
+Screen
+Engine Oil Filter
+Brake Shoe
+R
+R
+O
+C
+I
+Drive Chain
+Battery Voltage
+I
+I
+I
+I
+I
+Electric Starter
+I
+R
+C
+C
+I, T
+O
+I, T
+O
+I, T
+O
+I, A
+I, A
+I, A
+I, A
+I, A
+I, A
+I, C, A
+I, C, A
+I, C, A
+I, C, A
+I, C, A
+R
+Oil Circulation
+I
+I
+I
+I
+I
+I
+I
+Drive Chain Slider
+I
+I
+I
+I
+I
+Note-2
+Note-3
+Note-4
+Do not open air cleaner element unless 
+there is a drivability problem
+I
+R
+I,C,L,A at every 2000 km 
+I,C,L,A at every 2000 km 
+I
+I
+I
+I
+I
+I
+I, A
+I, A
+I, A
+I, A
+I, A
+I, A
+or Scan QR code
+Give a missed call to 
++91 8367796950
+----------------------------------------
+
+CHUNK 47
+Page: 40
+Content Length: 1086 characters
+Content:
+37
+Next 
+100
+Next 
+100
+Next 
+100
+3000-
+3500
+6000-
+6500
+9000-
+9500
+12000-
+12500
+WHICHEVER
+COMES FIRST
+ITEMS
+DURING FREE SERVICE PERIOD
+SERVICE
+st1
+nd
+2
+rd3
+th4
+th5
+AFTER FREE SERVICE
+ONCE IN EVERY
+6000
+9000 12000 15000
+DAYS
+KM Note-1
+500-
+750
+1st 60
+3000
+Next 
+100
+Disc Wear/Pad Wear
+I
+I
+I
+I
+I
+I
+Clutch Lever Free Play
+I, A
+I, A
+I, A
+I, A
+I, A
+I, A
+Rear Brake Pedal/
+Main Stand Pivot
+I
+i3s System
+I
+I
+I
+I
+I
+Stop Lamp Switch
+I, A
+I, A
+I, A
+I, A
+I, A
+I, A
+Headlamp Focus
+I, A
+I, A
+I, A
+I, A
+I, A
+I, A
+Nut, Bolts & Fasteners
+I
+I
+I
+I
+I
+I
+Wheels/Tyres
+I
+I
+I
+I
+I
+I
+Steering Head Bearing
+I, L, A
+I, A
+I
+I, L, A
+I, A
+I
+I, A
+I
+Muffler 
+(Catalytic Converter)
+I, E
+I, E
+I, E
+Wheel Bearings
+I
+I
+I
+I
+I
+I
+Note-7
+Rear Suspension
+I
+I
+I
+I
+I
+I
+Note-9
+Front Suspension/
+Oil leakage
+Evaporative Emission 
+Control System
+I
+I
+I
+I
+I
+I
+Note-11
+Brake System (Brake 
+Cam & Brake Pedal)
+C, L
+C, L
+C, L
+Note-6
+Note-8
+Note-10
+Side Stand Switch
+I, C
+I, C
+I, C
+I, C
+I, C
+I, C
+I
+I
+I
+I
+I
+I
+Brake Fluid
+Note-5
+I, T
+I, T
+I, T
+I, T
+I, T
+I, T
+C, L
+C, L
+C, L
+C, L
+C, L
+C, L
+C, L
+C, L
+C, L
+C, L
+C, L
+C, L
+Side Stand Pivot Bolt
+----------------------------------------
+
+CHUNK 48
+Page: 41
+Content Length: 1680 characters
+Content:
+38
+NGK-CPR 7EA9, RG8YC (Federal Mogul)
+Recommended spark plugs: 
+For most riding conditions this spark plug heat 
+range number is satisfactory. However, if the 
+vehicle is going to be operated for extended 
+periods at high speeds or near maximum 
+power in hot climates, the spark plug should 
+be changed to a cold heat range number, 
+consult Authorised 
+ workshop 
+Hero MotoCorp
+on this if required.
+• Disconnect the noise suppressor cap (1) 
+and remove the spark plug (2) with the help 
+of spark plug box wrench provided in the 
+tool bag. 
+SPARK PLUG INSPECTION
+• Clean any dirt around the spark plug base.
+• Make sure that the spark plug gap is   
+0.8-0.9 mm using a wire-type feeler 
+gauge. If adjustment is necessary, bend the 
+side electrode carefully. Make sure the plug 
+washer is in good conditions.
+• Tighten a new spark plug 1/2 turn with 
+spark plug wrench to compress the washer. 
+If you are reusing a plug, it should only take 
+1/8-1/4 turn after the plug seats. 
+• With the plug washer attached, thread the 
+spark plug in by hand to prevent cross-
+threading.
+(1) Noise suppressor cap       (2) Spark plug
+0.8-0.9 mm 
+• Visually inspect the spark plug electrodes for 
+wear. The center electrode should have 
+square edges and the side electrode should 
+not be eroded. Discard the spark plug if 
+there is apparent wear or if the insulator is 
+cracked or chipped.
+• Do not remove the spark plug and test for  
+spark on the vehicle by cranking the engine 
+as this could lead to fire or explosion
+• Install a dummy spark plug in the cylinder 
+head and test for spark.
+• Never use a spark plug with improper heat 
+range.
+• Always use resistor type spark plug.
+CAUTION
+!
+1
+2
+----------------------------------------
+
+CHUNK 49
+Page: 42
+Content Length: 1451 characters
+Content:
+39
+(1) Oil level dipstick     (2) Upper level mark
+(3) Lower level mark
+UPPER
+LOWER
+1
+(4) Engine oil check bolt
+• After checking the oil circulation, tighten the 
+engine oil check bolt.
+• Stop the engine and wait for 2-3 minutes.
+• Remove the oil level dipstick, wipe it clean 
+and insert without screwing it in.
+• Remove the oil level dipstick and check the 
+oil level.
+• If required, add the specified oil up to the 
+upper level mark. Do not overfill.
+• Reinstall the oil level dipstick and check for 
+oil leaks.
+Use hero genuine engine oil or recommended 
+grade oil.
+GRADE: SAE 10W 30 SL Grade 
+(JASO MA2).
+• Bharat Petroleum Corporation Limited.
+OIL CAPACITY: 0.95 litre (disassembly)
+               
+: 0.75 litre (at oil change)
+Engine oil level inspection/Top up 
+process
+BRAND: Hero 4T plus
+Check engine oil level each day before 
+operating the vehicle. The oil level dipstick (1) 
+is on the right crankcase cover for measuring 
+oil level. Oil level must be maintained between 
+the upper (2) and lower (3) level marks on 
+the oil level dipstick.
+Manufactured by:
+• Savita Oil Technologies Limited.
+• Tide Water Oil Co. (India) Ltd.
+ENGINE OIL
+• Park the vehicle on its main stand.
+•  Start the engine & let it idle for 3-5 
+minutes.
+• Slightly loosen the engine oil check bolt (4) 
+and check the engine oil entry into the 
+cylinder head.
+Do top up if oil level reaches towards the lower 
+level mark or every 3000 km whichever is 
+earlier.
+2
+3
+4
+----------------------------------------
+
+CHUNK 50
+Page: 43
+Content Length: 1427 characters
+Content:
+40
+CAUTION
+!
+• Running the engine with excessive oil can 
+cause spark plug fouling & loss in 
+performance.
+• Running the engine with insufficient oil can 
+cause serious engine damage.
+• Engine oil is a major factor affecting the 
+performance and service life of the engine. 
+Non-detergent, vegetable or castor based 
+racing oils are not recommended.
+(1) Drain bolt                 (2) Sealing washer 
+2
+Drain engine oil with the engine warm and the 
+vehicle on its main stand.
+Engine oil replacement process/
+• To drain the oil, remove the oil level dipstick 
+(page 39) and drain bolt (1) with sealing 
+washer (2).
+• After the oil has completely drained, 
+reinstall the drain bolt with a new sealing 
+washer.
+Oil circulation inspection
+• Start the engine and allow it to idle for few 
+minutes.
+• Stop the engine, let the engine oil settle 
+down and recheck the oil level.
+• Make sure that oil level is at the “UPPER”
+level mark of the oil level dipstick with the 
+vehicle in an upright position and that there 
+are no oil leaks.
+• Reinstall the oil level dipstick with a new  
+O-ring.
+ENGINE OIL FILTER ELEMENT
+Drain the engine oil thoroughly (page 40) in 
+case of engine oil filter element replacement.
+NOTE
+• Remove the three mounting bolts (1).
+• Remove the engine oil filter element cover 
+(2) with O-ring (3).
+1
+• Fill the crankcase through the oil filler   
+hole with 
+(approx.) of the 
+0.95 litre 
+recommended grade oil.
+----------------------------------------
+
+CHUNK 51
+Page: 44
+Content Length: 915 characters
+Content:
+41
+• Make sure that O-ring is properly seated.
+• Inspect and replace engine oil filter element 
+as specified in the maintenance schedule.
+• Apply engine oil on engine oil filter element 
+before installation.
+• When the engine oil filter element replaced 
+always replace the O-ring with the new one.
+NOTE
+• Installation is in the reverse order of 
+removal.
+• Remove the side stand switch screw (1).
+OIL FILTER SCREEN
+• Drain the engine oil thoroughly (page 40).
+• Remove the exhaust muffler (3), rider 
+footrest assembly with side stand (4), ick 
+k
+s
+p
+ and right crankcase cover 
+tarter edal (5)
+(6).
+• isconnect the lutch able ( )
+D
+c
+c
+2 .
+• Remove the engine oil filter element (4) 
+from the cover.
+(3) O-ring        (4) Engine oil filter element        
+4
+(4) Engine oil filter element        
+4
+• Replace the engine oil filter element (4).
+(1) Mounting bolts          
+(2) Engine oil filter element cover
+2
+1
+3
+----------------------------------------
+
+CHUNK 52
+Page: 45
+Content Length: 1251 characters
+Content:
+42
+• Reinstall the dowel pins, new gasket, 
+• Reinstall the oil filter screen with the sharp 
+edged side facing inwards.
+• Fill the crankcase with clean engine oil as 
+per specification.
+• Install the side stand switch screw.
+• Adjust the clutch cable free play, if required 
+(page 46).
+crankcase cover, kick starter pedal, rider 
+footrest assembly with side stand, exhaust 
+muffler and clutch cable.
+Ensure to replace gasket with new one once 
+removed.
+NOTE
+• Remove the oil filter screen (9) and wash it 
+in clean non flammable or high flash point 
+solvent (kerosene).
+• Remove the gasket (7) and dowel pins (8).
+(7) Gasket                        (8) Dowel pins 
+(9) Oil filter screen
+9
+6
+5
+1
+(5) Kick starter pedal (6) Right crankcase cover
+(2) Clutch cable  
+ (3) Exhaust muffler 
+(4) Rider footrest assembly with side stand 
+(1) Side stand switch screw 
+AIR CLEANER
+Air cleaner element inspection
+The air cleaner 
+replaced
+should be 
+ at regular 
+intervals 
+ When riding in dusty 
+(page 35).
+areas, more frequent 
+ may be 
+replacement
+necessary.
+•
+(page 26).
+Remove the seat 
+• Remove the air cleaner cover screws ( ) 
+1
+and the cover ( ).
+2
+The air cleaner is viscous paper pleated type 
+filter which has enhances filtering efficiency.
+3
+8
+7
+4
+2
+----------------------------------------
+
+CHUNK 53
+Page: 46
+Content Length: 570 characters
+Content:
+43
+(1) Air cleaner cover screws           (2) Cover
+2
+1
+3
+(3) Air cleaner element
+• Remove the air cleaner element (3).
+CAUTION
+!
+•
+wet, paper pleated 
+Never wash or clean the 
+type filter. Replace filter element once in 
+every 15000 km.
+• Replace it earlier if it becomes very dirty, 
+damage on surface or on the sealing area.
+NOTE
+Align the tabs of air cleaner cover before 
+installing screws & the cover.
+• Install the seat (page 26).
+• Install the new air cleaner element.
+• Clean the air cleaner housing using a shop 
+towel.
+• Install the air cleaner element cover.
+----------------------------------------
+
+CHUNK 54
+Page: 47
+Content Length: 1141 characters
+Content:
+44
+Ÿ Remove the fuel tank.
+Ÿ Remove the cylinder head left side cover 
+(1) with its gasket (2) by removing bolts 
+(3).
+Ÿ Remove the engine breather pipe (4) by 
+removing the clip (5).
+Ÿ Remove the cylinder head cover (6) with its 
+gasket (7) by removing the cylinder head 
+cover bolts (8).
+NOTE
+The checking or adjusting of valve clearance 
+should be performed while the engine is cold. 
+The clearance will change as the engine 
+temperature rises.
+(1) Drain tube                     
+1
+VALVE CLEARANCE ADJUSTMENT
+Excessive valve clearance will cause noise, and 
+little or no clearance will prevent the valve 
+from closing and cause valve damage and 
+power loss. Check valve clearance at the 
+specified intervals (page 35).
+Air cleaner drain tube plug cleaning
+Remove the drain tube (1) and drain the 
+deposit into a container.
+Follow the above process more frequently 
+when riding in rain or at full throttle.
+(1) Cylinder head left side cover   
+(2) Cylinder head left side cover gasket
+(3) Cylinder head left side cover bolts
+(4) Engine breather pipe      (5) Clip
+(6) Cylinder head cover              (7) Gasket 
+(8) Bolts
+6
+7
+5
+4
+1
+3
+2
+8
+----------------------------------------
+
+CHUNK 55
+Page: 48
+Content Length: 1243 characters
+Content:
+45
+Ÿ Remove the timing hole cap with O-ring 
+(9). Rotate the cam sprocket (12) 
+clockwise using the special tool (13) until 
+the ‘T’ mark (10) on the flywheel  
+coincides with the index mark (11) on the 
+left crankcase cover. In this position, the 
+piston will either be on the compression or 
+exhaust stroke.
+(9) Timing hole cap                 (10) 'T' mark 
+(11) Index mark 
+(12) Cam sprocket     (13) Special tool
+12
+Exhaust : 0.12 mm
+This condition can be determined by moving 
+the rocker arms. If they are free, it is an 
+indication that the valves are closed and the 
+piston is in compression stroke. If they are 
+The adjustment must be made when the 
+piston is at top dead center and both the inlet 
+and exhaust valves are closed.
+sprocket 360° clockwise and realign the 'T' 
+mark with the index mark.
+Ÿ Check the clearance by inserting the feeler 
+gauge (14) between the adjusting screw 
+(15) and valve stem (16).
+tight, the valves are open, rotate the cam
+Standard clearance (cold condition)
+Intake   : 0.08 mm
+NOTE
+Before inserting the feeler gauge, smear a bit 
+of engine oil on the feeler gauge to avoid 
+damage to the feeler gauge.
+(14) Feeler gauge  (15) Adjusting screw
+(16) Valve stem     (17) Lock nut 
+14
+11
+9
+13
+16
+17
+15
+10
+----------------------------------------
+
+CHUNK 56
+Page: 49
+Content Length: 1331 characters
+Content:
+46
+• Adjust by loosening the lock nut (17) and 
+turning the adjusting screw until there is a 
+slight drag on the feeler gauge.
+• After tightening the lock nut, check again 
+the clearance.
+• Install all parts in the reverse order of 
+disassembly.
+Clutch adjustment may be required if the 
+vehicle stalls when shifting into gear or tends 
+to creep or if the clutch slips, causing 
+acceleration to lag behind engine speed.
+CLUTCH LEVER FREE PLAY 
+Adjustment
+Normal clutch lever free play (1) is 10-20 mm 
+at the lever (2).
+(1) Free play: 10-20 mm    (2) Clutch lever
+2
+1
+NOTE
+All O-rings and gaskets to be replaced with 
+new ones.
+B
+A
+(3) Lock nut   (4) Clutch cable adjusting nut
+(A) Decrease free play (B) Increase free play
+4
+3
+• Check for clutch cable model. Use genuine 
+clutch cables.
+• Check for clutch cable routing.
+Other checks
+• Check the clutch cable for kinks or signs of 
+wear that could cause sticking or failure.
+• Start the engine, press the clutch lever and 
+shift into gear. Make sure the engine does 
+not stall, and vehicle does not creep. 
+Gradually release the clutch lever and open 
+the throttle. The vehicle should start 
+smoothly and accelerate.
+• To adjust the free play, loosen the lock nut 
+(3). Turn the adjusting nut (4) to obtain the 
+specified free play. Tighten the lock nut and 
+check the adjustment.
+----------------------------------------
+
+CHUNK 57
+Page: 50
+Content Length: 1273 characters
+Content:
+47
+THROTTLE OPERATION
+throttle body. If the cable is kinked, chafed or
+Check for smooth rotation of the throttle grip 
+from the fully open to the fully closed position.
+Cable inspection
+rerouted. Standard throttle grip free play (1) 
+is approximately 2-6 mm of grip rotation.
+Check at full left and full right steering 
+positions. Inspect the condition of the throttle 
+cable from the throttle grip down to the 
+improperly routed, it should be replaced or
+If proper adjustment cannot be obtained or the 
+clutch does not work correctly, visit your 
+Authorised 
+ workshop.
+Hero MotoCorp
+NOTE
+(1) Free play: 2-6 mm
+1
+Free play adjustment
+(a) At handlebar side
+To adjust the free play, slide the boot (2), 
+loosen the lock nut (3) and turn the adjuster 
+(4) to adjust free play. After adjustment, 
+tighten the lock nut and slide the boot on the 
+adjuster and lock nut securely.
+A
+B
+4
+(2) Boot       (3) Lock nut      (4) Adjuster               
+(A) Decrease free play   (B) Increase free play 
+2
+3
+If the specified free play is not achieved, adjust 
+the free play on throttle body side.
+(b) At throttle body side
+Remove the right side cover.
+Loosen the lock nut (5). Turn the adjusting 
+nut (6) to obtain the specified free play. 
+Tighten the lock nut and check the adjustment.
+----------------------------------------
+
+CHUNK 58
+Page: 51
+Content Length: 1356 characters
+Content:
+48
+Poor maintenance can cause premature wear 
+or damage to the drive chain and sprockets.
+Inspection
+The drive chain (1) should be checked and 
+lubricated as part of the pre-ride inspection 
+(page 28). Under severe usage, or when the 
+vehicle is ridden in unusually dusty areas.
+DRIVE CHAIN SLACKNESS
+The service life of the drive chain depends 
+upon proper lubrication and adjustment.
+more frequent maintenance will be necessary.
+• Turn the engine “OFF”, park the vehicle on 
+its main stand and shift the transmission to 
+neutral. Remove hole cap (2).
+• Drive chain slack (3) should be adjusted to 
+allow approximately 30 mm vertical 
+movement by hand. 
+A
+B
+(5) Lock nut        (6) Adjuster                 
+(A) Decrease free play   (B) Increase free play 
+6
+5
+2
+(1) Drive chain         
+(2) Hole cap
+              
+(3) Drive chain slack  : 30 mm
+1
+3
+Rotate the wheel and check drive chain slack 
+as the wheel rotates. Drive chain slack should  
+remain constant as the wheel rotates.
+• Turn the chain to view chain lock plate (4) 
+inside the hole. Ensure that the chain lock 
+plate open end (5) is installed in the 
+opposite direction of the chain rotation.
+• Inspect the sprocket teeth for wear or 
+damage.
+If the chain is slack in one section and tight in 
+another, some links are kinked and binding. 
+Binding can be eliminated by frequent 
+lubrication.
+----------------------------------------
+
+CHUNK 59
+Page: 52
+Content Length: 970 characters
+Content:
+49
+• If the drive chain or sprockets are 
+excessively worn or damaged, they should 
+be replaced. Never use a new chain with 
+worn out sprockets since this will result in 
+rapid chain wear.
+c
+o
+k
+r
+e
+p
+t
+S
+ T
+ 
+e
+n
+r
+e
+o
+th
+W
+c
+o
+r
+p
+k
+e
+S
+ 
+t
+l
+ 
+T
+a
+e
+m
+e
+r
+t
+o
+h
+N
+o
+r
+p
+c
+S
+ 
+k
+d
+e
+e
+t
+ 
+g
+T
+a
+e
+e
+m
+t
+a
+h
+D
+4
+5
+(4) Chain lock plate                (5) Open end
+Adjustment
+• Park the vehicle on its main stand with the 
+transmission in neutral and the ignition 
+switch in “OFF” (   ) position.
+• Loosen the rear axle nut (1) and sleeve nut 
+(2). Loosen both the drive chain lock nuts 
+(3).
+• Turn both the adjusting nuts (4) in an equal 
+number of turns until the correct drive chain 
+slack is obtained. Turn the adjusting nut 
+clockwise to decrease the slack or 
+anticlockwise to increase the slack of the 
+chain.
+(1) Rear axle nut
+• Align the chain adjuster index mark (5) 
+with the corresponding scale graduations 
+(6) on both the sides of the swing arm 
+equally.
+1
+----------------------------------------
+
+CHUNK 60
+Page: 53
+Content Length: 1456 characters
+Content:
+50
+(2) Sleeve nut         (3) Drive chain lock nut
+(4) Drive chain adjusting nut (5) Index mark           
+(6) Scale graduation
+4
+3
+6
+ -  Sleeve nut torque: 4.2 kgf-m.
+• Rear brake pedal free play and stop lamp 
+switch free play are affected when 
+repositioning the rear wheel to adjust drive  
+chain slack. Check rear brake pedal free 
+play and adjust as necessary (page 54).
+• If the drive chain slack is excessive when the 
+rear axle is moved to the farthest limit of 
+adjustment, the drive chain is worn and must 
+be replaced. Tighten the rear axle nut and 
+sleeve nut.
+ -  Rear axle nut torque: 5.2 kgf-m.
+• Turn the engine “OFF”, park the vehicle on 
+its main stand and shift the transmission  
+into neutral.
+Lubrication
+• Check the drive chain slack again.
+2
+5
+NOTE
+Visit Authorised Hero MotoCorp workshop 
+for inspection, cleaning, lubrication and 
+adjustment of drive chain at every 2000 km.
+• Lubricate the drive chain by applying liberal 
+amount of SAE#90 oil.
+CAUTION
+!
+Regular adjustment and lubrication as per the 
+maintenance schedule would ensure high 
+performance and longer life.
+DRIVE CHAIN SLIDER INSPECTION
+(Refer to “Maintenance Schedule” on   
+(page 35).
+Check the drive chain slider (1) for wear, the
+chain slider must be replaced if it is worn to the 
+bottom of the cutout or wear limit (2) is
+reached. For replacement, visit your 
+Authorised Hero MotoCorp workshop.
+(1) Drive chain slider                (2) Wear limit
+CUT-OUT
+2
+1
+----------------------------------------
+
+CHUNK 61
+Page: 54
+Content Length: 1501 characters
+Content:
+51
+(1) "MIN" mark
+BRAKES
+Brakes are items of personal safety and should 
+always be maintained with proper adjustments.
+When one applies the Integrated/Rear brake 
+pedal, front & rear brakes activate jointly.
+Brakes (Integrated braking system)
+Brake fluid recommended: DoT 3 or DoT 4
+(a) Front brake inspection (Disc 
+)
+variant
+Master Cylinder/Reservoir.
+Location: Right handlebar.
+Fluid level-Ensure that the brake fluid level 
+does not fall below “MIN” mark (1) on the 
+master cylinder, when checked with the 
+master cylinder parallel to the ground. The 
+level decreases gradually due to piston 
+movement to compensate pad wear. If the 
+level decreases abruptly, check for leakage in 
+the brake system and contact your Authorised 
+Hero MoroCorp workshop.
+MIN
+1
+(2) Brake pads      (3) Caliper        (4) Disc
+NOTE
+• Clean the dirt and mud accumulation 
+between the brake pads (2), caliper (3) and 
+the disc (4) by using a water jet.
+• Always contact your Authorised Hero 
+MoroCorp workshop for refilling of master 
+cylinder when necessary  . Do not mix DoT 3 
+and DoT 4 brake fluid.
+Refer to the safety precautions on (page 34).
+Location : Near the right side pillion footrest.
+Fluid level - Ensure that the brake fluid level 
+does not fall below "MIN" mark (2) on the 
+reservoir parallel to the ground. The level 
+decreases gradually due to piston movement 
+to compensate pad wear. If the level decreases
+Reservoir (1)
+(b) Rear brake fluid (Disc variant)
+Brake fluid recommended :
+DoT-4/DoT-3.
+2
+3
+4
+----------------------------------------
+
+CHUNK 62
+Page: 55
+Content Length: 1095 characters
+Content:
+52
+(1) Reservoir                    (2) "MIN" mark
+• Replace the pads if worn out to the bottom 
+of the groove.
+(c) Brake pad wear (Disc variant)
+Brake pad wear depends upon the severity of 
+usage, the type of riding & road conditions. 
+Generally, the pads will wear faster on wet & 
+dirty roads. Inspect the pads at each regular 
+maintenance interval.
+•
+grooves
+Check the wear indicator 
+ (1) on 
+each pad.
+Inspection
+• Check the brake pads for wear by 
+examining the wear limit groove  on each 
+s
+pad.
+• Always replace both the pads as a set.
+•
+Authorised 
+Visit your 
+Hero MoroCorp 
+workshop for the brake pad replacement.
+abruptly, check for the leakages in the brake 
+system and consult your Authorised Hero 
+MoroCorp workshop.
+MIN
+MAX
+1
+2
+WARNING
+!
+Always apply front and rear brakes 
+simultaneously to avoid skidding of vehicle.
+(1) Wear indicator groove
+(d) Front brake inspection (Drum variant)
+The distance, the front brake lever (1) and 
+integrated brake pedal (2) moves before each 
+brake starts to engage is called free play (3).
+1
+(1) Front brake lever 
+(3) Free play: 10-20 mm
+3
+1
+----------------------------------------
+
+CHUNK 63
+Page: 56
+Content Length: 1156 characters
+Content:
+53
+(2) Integrated/Rear brake pedal
+(3) Free play: 20-30 mm    
+Ÿ Push the integrated brake arm (4) by hand 
+in the direction as shown.
+Ÿ Turn the first adjuster nut (5) till you cannot 
+turn it by hand.
+Front brake cable (A) on “F” side  
+Adjustment
+(4) Integrated brake arm (5) First adjuster nut 
+(i) Decrease free play  (ii) Increase free play
+Integrated brake cable (B) on “C” side
+Ÿ If the free play is out specification turn the 
+adjuster nut to obtain desired free play.
+Ÿ Check the free play of front brake lever.
+   FREE PLAY: 10-20 mm
+• Push the integrated brake arm (4) by hand 
+in the direction as shown.
+• Turn the second adjuster nut (6) until a gap 
+is created between joint (7) and the slot on 
+the first side in integrated brake arm.
+• After ensuring the gap, turn the second 
+adjuster nut counterclockwise by half 
+rotation.
+• Check the free play of rear brake pedal.
+Adjustment
+• If the free play is out specification turn the 
+adjuster nut to obtain desired free play.
+   FREE PLAY: 20-30 mm
+(i)
+(ii)
+A
+4
+5
+F
+C
+(6) Second adjuster nut               (7) Joint 
+(i) Decrease free play       (ii) Increase free play
+(i)
+(ii)
+B
+6
+7
+F
+C
+3
+12
+----------------------------------------
+
+CHUNK 64
+Page: 57
+Content Length: 1092 characters
+Content:
+54
+• If adjustment is necessary, turn the rear 
+brake adjusting nut (3).
+• Apply the brake several times and check for 
+free wheel rotation when released.
+CW- Clockwise, ACW- Anticlockwise
+• Make sure that the cut-out on the adjusting 
+nut is seated on the brake joint pin (4) after   
+the final adjustment has been made.
+Adjustment
+(e) Rear brake inspection
+• Measure the brake pedal (1) free play 
+before the brake starts to take hold. 
+• Park the vehicle on its main stand.
+Free play (2) should be 20-30 mm.
+NOTE
+“F” & “C” is marked on integrated brake arm.
+(1) Rear brake pedal
+(2) Free play: 20-30 mm    
+(f) Brake wear indicators 
+When the brake is applied, an arrow (1), fixed 
+to the brake arm (2), moves towards a 
+reference mark (3) on the brake panel (4).
+(3) Adjusting nut          (4) Brake joint pin
+A
+B
+(A) Decrease free play (CW)
+(B) Increase free play (ACW)
+(3) Adjusting nut          (4) Brake joint pin
+ü
+X
+(A) Cut-out not seated
+(B) Cut-out seated
+3
+4
+4
+3
+NOTE
+If proper adjustment cannot be obtained by 
+this method, visit your Authorised Hero 
+MotoCorp workshop.
+3
+4
+2
+1
+----------------------------------------
+
+CHUNK 65
+Page: 58
+Content Length: 1047 characters
+Content:
+55
+(3) Reference mark  
+(4) Brake panel
+(1) Arrow  
+ 
+(2) Brake arm
+Rear brake wear indication
+3
+2
+4
+(1) Arrow                        (2) Brake arm
+(3) Reference mark           (4) Brake panel
+1
+2
+If the arrow aligns with the reference mark on 
+full application of the brake, the brake shoes 
+must be replaced.
+3
+1
+4
+Front brake wear indication 
+(
+)
+Drum variant
+SUSPENSION
+Front and rear suspension inspection
+• Check the front forks by locking the front 
+brake and pumping the front fork up and 
+down vigorously. The suspension action 
+should be smooth and there should be no oil 
+leakage.
+• Check the rear shock absorber by pushing 
+hard downwards on rear grip while the 
+vehicle is not parked on stand. The 
+suspension action should be smooth and 
+there should be no oil leakage.
+Rear shock absorber adjustment
+Rear shock absorber adjustment can be made 
+in any position from 1st to 5th according to 
+the load/road conditions or owner’s 
+requirement.
+Front
+Rear
+• Rider + Pillion: 5th position
+• Solo rider: 2nd position
+Recommended adjustment
+----------------------------------------
+
+CHUNK 66
+Page: 59
+Content Length: 1143 characters
+Content:
+56
+B
+A
+(1) Rear shock absorber       (2) Pin spanner       
+(A) Stiffer                           (B) Softer
+2
+NOTE
+Always adjust both the rear shock absorbers to 
+the same position. To adjust the rear shock 
+absorber (1), use the rear shock absorber 
+adjustment tool (Pin spanner) (2) available in 
+the tool kit.
+• In direction A: Stiffer
+• In direction B: Softer
+• Support the vehicle securely on the main 
+stand and raise the front wheel off the 
+ground.
+• Remove the axle (2) and the wheel (3).
+• Remove the front axle nut (1).
+Removal 
+WHEEL
+(a) Front wheel (Disc variant)
+1
+CAUTION
+!
+Do not operate front brake lever when the 
+wheel is removed.
+(1) Axle nut                         (2) Axle  
+(3) Wheel                            (4) Side collar
+1
+4
+Ÿ Remove the side collar (4) from the right 
+side of the wheel hub.
+• Install the side collars (1) to both sides of 
+the wheel hub.
+• Position the front wheel between the fork 
+legs by aligning the slot with lug on the fork 
+leg and the disc between the brake pads to 
+avoid damage to the pads. Insert the axle 
+from the right side through the fork legs and 
+wheel hub. 
+Installation
+2
+3
+----------------------------------------
+
+CHUNK 67
+Page: 60
+Content Length: 1179 characters
+Content:
+57
+   TORQUE : 5.2 kgf-m
+• After installing the wheel apply the brake 
+several times and then check if the wheel 
+rotates freely. Recheck the wheel if the 
+brake drags or if the wheel does not rotate 
+freely.
+(1) Side collar     
+1
+• Tighten the front axle nut to the specified 
+torque.
+Removal
+• Support the vehicle securely on the main 
+stand and raise the front wheel off the 
+ground.
+• Disconnect the front brake cable (1) and 
+integrated brake cable (2) from the 
+integrated brake arm (3) and brake panel 
+(4) by removing the front brake adjusting 
+nut (5) and integrated brake adjusting nut 
+(6).
+(b) Front wheel (
+)
+Drum variant
+1
+Installation
+   Axle nut torque: 5.2 kgf-m
+• Reverse the removal procedure.
+• Tighten the axle nut.
+• Install the front wheel by ensuring that the 
+lug (10) on the left fork is located in the slot 
+(11) in the brake panel.
+• Remove the axle nut (7).
+• Remove the axle (8) and side collar (9).
+• Remove the wheel.
+4
+65
+(1) Front brake cable     (2) Integrated brake cable
+(3) Brake arm            (4) Brake panel 
+(5) Front brake adjusting nut
+(6) Integrated brake adjusting nut
+(7) Axle nut       (8) Axle        (9) Side collar
+3 
+2
+1
+8
+9
+7
+----------------------------------------
+
+CHUNK 68
+Page: 61
+Content Length: 1004 characters
+Content:
+58
+Removal
+• After installing wheel, apply the brake 
+several times and check for free wheel 
+rotation when released.
+• Adjust the front brake free play and 
+integrated brake free play (page 52 & 
+53).
+(c) Rear wheel 
+• Support the vehicle securely on the main 
+stand and raise the rear wheel off the 
+ground.
+•  Remove the rear brake adjusting nut (1) 
+and disconnect the brake rod (2) from the 
+brake arm (3) by pushing down the brake 
+pedal. Disconnect the brake stopper arm 
+(4) from the brake panel (5) by removing 
+split pin (6), lock nut (7) and washer (8).
+• Remove the wheel.
+• Remove the rear axle nut (9).
+• Pull out the axle (10) and collar (11).
+(9) Axle nut    (10) Axle  (11) Collar
+(1) Rear brake adjusting nut    (2) Brake rod 
+(5) Brake panel   (6) Split pin  (7) Lock nut 
+(8) Washer
+(3) Brake arm     (4) Brake stopper arm  
+2
+4
+3
+5
+6
+7
+Installation
+• Reverse the removal procedure.
+   Axle nut torque: 5.2 kgf-m
+1
+8
+10
+9
+11
+(10) Lug                                    (11) Slot
+10
+11
+----------------------------------------
+
+CHUNK 69
+Page: 62
+Content Length: 1834 characters
+Content:
+59
+CAUTION
+!
+Always replace used split pins with new ones.
+MAIN/SIDE STAND LUBRICATION
+• Check the main/side stand return spring for 
+damage or loss of tension.
+• Check the main stand (1)/side stand (2) 
+for freedom of movement.
+• Park the vehicle on the level surface.
+• Clean and lubricate the side stand pivot bolt (3) 
+and rear brake pedal/main stand pivot (4).
+• Make sure the side/main stand is not bent.
+(1) Main stand                (2) Side stand 
+(3) Side stand pivot bolt 
+(4) Rear brake pedal/Main stand pivot
+2.2 kgf-m
+Brake stopper arm nut torque: 
+• Adjust the rear brake free play (page 54) 
+and drive chain slackness (page 50).
+• After installing the wheel, apply the brake 
+several times and check for free wheel 
+rotation when released.
+4
+3
+1
+• Follow all instructions in this owner's 
+manual regarding tyres inflation and 
+maintenance.
+• Using tyres that are excessively worn or 
+improperly inflated can cause a crash in 
+which you can be seriously hurt or killed.
+WARNING
+!
+Front
+Rear
+80/100-18 47P (Tubeless tyre)
+90/90-18 51P (Tubeless tyre)
+The tyres fitted on your vehicle are of 
+TUBELESS type.
+TUBELESS TYRES
+To safely operate your vehicle, your tyres must 
+be of the proper type and size, in good 
+condition with adequate tread, and correctly 
+inflated for the load you are carrying.
+The following pages give more detailed 
+information on how and when to check the air 
+pressure, how to inspect your tyres for 
+damage, and what to do when your tyres need 
+to be repaired or replaced. 
+Generally, under-inflated tyres wear unevenly, 
+adversely affect handling and are more likely 
+to fail from being overheated.
+Keeping your tyres properly inflated provides 
+the best combination of handling, tread life 
+and riding comfort.
+Air pressure
+Under inflated tyres can also cause wheel 
+damage in rocky terrain.
+2
+----------------------------------------
+
+CHUNK 70
+Page: 63
+Content Length: 1569 characters
+Content:
+60
+Over-inflated tyres make your vehicle ride 
+harshly, are more prone to damage from road 
+hazards, and wear unevenly.
+We recommend that you visually check your 
+tyres before every ride and use a air pressure 
+gauge (1) to measure air pressure at least 
+once a month or any time you think the tyres 
+pressure might be low.
+Front
+Rear
+2 
+1.75 kgf/cm (25 psi)
+2 
+2.00 kgf/cm (29 psi)
+2 
+1.75 kgf/cm (25 psi)
+2 
+2.30 kgf/cm (33 psi)
+Rider only
+Rider and Pillion
+Over inflation/Under inflation will affect the 
+performance.
+CAUTION
+!
+(1)  Air pressure gauge
+• Cuts, splits or cracks in the tyre. Replace the 
+tyre if you can see fabric or cord.
+• Bumps or bulges in the side of the tyre or 
+the tread. Replace the tyre if you find any 
+bumps or bulges.
+Whenever you check the tyre pressure, you 
+should also examine tyre treads & side walls 
+for wear, damage & foreign objects.
+Inspection
+Look for:
+1
+at least three hours. If you check air pressure 
+when your tyres are "warm"-when the vehicle 
+has been ridden for even a few km-the 
+readings will be higher than if the tyres were 
+"cold". This is normal, so do not let air out of 
+the tyres to match the recommended cold air
+Always check air pressure when your tyres are 
+"cold"-when the vehicle has been parked for
+Tubeless tyres have some self-sealing ability if 
+they are punctured. However, because leakage 
+is often very slow, you should look closely for 
+punctures whenever a tyre is not fully inflated.
+pressures given below. If you do, the tyres will 
+be under-inflated.
+The recommended “cold” tyre pressures are:
+----------------------------------------
+
+CHUNK 71
+Page: 64
+Content Length: 1621 characters
+Content:
+61
+• Excessive tread wear.
+• Carefully inspect the tyres for any damage, 
+if the vehicle hits a pothole or hard object.
+Tread ear
+w
+Replace tyres immediately when the tread 
+wear indicator (1) appears on the tyre. The 
+tread limits are:
+Front: 1.0 mm  
+   Rear: 1.0 mm
+Check the tread wear indicator for tyre wear.
+MINIMUM TREAD DEPTH:
+(1) Tread wear indicator       (2) Arrow mark
+2
+1
+A tyre that is repaired either temporarily or 
+permanently, will have lower speed and 
+performance limits than a new tyre. After an 
+emergency repair, always have the tyre 
+inspected/replaced at our authorised dealer 
+and replace the tyre if suggested. 
+Unidirectional tyres
+Whenever the tyre is removed and put back in 
+case of puncture, ensure the arrow mark (2) 
+on the tyre is in the same direction as that of 
+forward rotation of wheel.
+Tyre repair
+Repairing a puncture or removing a wheel 
+requires special tools and technical expertise. 
+If a tyre is punctured or damaged, it is advised 
+to visit nearest tyre manufacture, Hero 
+MotoCorp authorised dealer/workshop or the 
+tyre repair shop who has expertise in 
+repairing methods of tubeless tyre. 
+You should not exceed 70 km/hour for the 
+1st 24 hours or 105 km/hour at any time 
+thereafter. In addition, you may not be able to 
+safely carry as much load as with a new tyre. 
+If you decide to have a tyre replace be sure the 
+wheel is balanced before you ride.
+Tyre replacement
+The tyres that were installed on your vehicle 
+were designed to match the performance 
+capabilities of your vehicle and provide the 
+best combination of handling, braking, 
+ 
+durability and comfort.
+----------------------------------------
+
+CHUNK 72
+Page: 65
+Content Length: 1655 characters
+Content:
+62
+WARNING
+!
+• Operation with excessively worn tyres is 
+hazardous and will adversely affect traction 
+and handling.
+• Always use the size and type of tyres 
+recommended in this owner's manual.
+• Under-inflation may result in the tyre 
+slipping on or tyre coming off the rim.
+NOTE
+For repair and replacement of tyre it is advised 
+to visit your Authorised Hero MotoCorp 
+workshop.
+NOTE
+The imported tyre(s) if fitted without ISI mark; 
+are in compliance of BIS standard and Central 
+Motor Vehicle Rules 1989, as declared by the 
+Tyre manufacturer.
+• Do not install a tube inside a tubeless tyre on 
+this vehicle. Excessive heat buildup can 
+cause the tube to burst.
+Important safety reminders
+• Use only tubeless tyres on this vehicle. The 
+rims are designed for tubeless tyres, and 
+during hard acceleration or braking, a tube-
+type tyre could slip on the rim and cause the 
+tyre to rapidly deflate.
+• Check that all chassis nuts and bolts are 
+tightened to correct torque values.
+• Check that all cotter pins, safety clips, hose 
+clamps and cable stays are in place.
+NUTS, BOLTS & FASTENERS
+• Tighten bolts and nuts at regular interval 
+shown in the maintenance schedule.
+BATTERY
+Refer to the safety precautions on (page 34).
+Location
+The battery is located behind the left side 
+cover.
+Specification
+*MF Battery 12V-4Ah/ETZ5
+It is not necessary to check the battery 
+electrolyte level or add distilled water as the 
+battery is a Maintenance Free (sealed) type. 
+If your battery seems weak and electrolyte is 
+leaking (causing hard starting or other 
+electrical troubles), contact your Authorised 
+Hero MotoCorp workshop.
+*MF stands for Maintenance Free
+----------------------------------------
+
+CHUNK 73
+Page: 66
+Content Length: 1897 characters
+Content:
+63
+NOTE
+This symbol on the battery means that 
+this product must not be treated as 
+household waste.
+This symbol on the battery means the 
+old battery must be returned to your 
+Authorised Hero MotoCorp workshop 
+as it must be treated as recyclable 
+material.  
+• Battery is a Maintenance-Free (sealed) type 
+and can be permanently damaged if the 
+sealing strip is removed.
+• An improperly disposed battery can be  
+harmful to the environment and human  
+health. Always confirm local regulations for 
+battery disposal.
+Battery charging 
+Always visit your Authorised Hero MotoCorp
+workshop if you see any symptom of battery 
+discharge as earliest as possible to get the 
+battery charged. The battery has a tendency to
+discharge rapidly if optional electrical 
+accessories are fitted on the vehicle.
+Battery storage 
+• Always ensure the battery is fully charged 
+before installation. 
+• If the battery is expected to be stored for 
+more then two months, ensure to fully 
+charge the battery once in a month. 
+• If in case your vehicle is not used for more 
+than a month remove the battery, fully 
+charge and store in a cool and dry place.
+2
+(1) Left side cover screws       (2) Side cover
+(3) Tab/slot                  (4) Lugs/grommets
+1
+3
+• Remove the fuel tank left side cover bolt (5) 
+and remove the cover (6) by releasing the 
+tab (7) from the slot (8).
+• Disconnect the negative (-)ve terminal lead 
+(11) from the battery first, then disconnect 
+the positive (+)ve terminal lead (12).
+• Remove the battery clamp bolt (9) and the 
+battery clamp (10).
+•
+(pages 26)
+Remove the seat 
+.
+• Ensure the battery leads are properly 
+connected to the battery terminals during 
+installation.
+•
+FF” (   ). 
+Make sure the ignition switch is “O
+• Remove the left side cover screws (1) and 
+remove the side cover (2) by releasing the 
+tabs from the slots (3) and lugs from the 
+grommets (4).
+Battery removal 
+4
+----------------------------------------
+
+CHUNK 74
+Page: 67
+Content Length: 771 characters
+Content:
+64
+• Pullout the battery (13) from the battery 
+box. 
+(9) Battery clamp bolt    (10) Battery clamp
+(11) (-)ve terminal         (12) (+)ve terminal
+(13) Battery 
+5
+6
+8
+(5) Fuel tank left side cover bolt
+(6) Fuel tank left side cover (7) Tab (8) Slot
+10
+11
+12
+13
+Battery installation 
+• Reinstall in the reverse order of removal. Be 
+sure to connect the positive (+)ve terminal 
+first, then the negative (-)ve terminal.
+• Check all fasteners are secured properly.
+FUSE REPLACEMENT
+Spare fuse (4) : 15A, 10A 
+Fuse type: Blade fuse
+Circuit fuse (3) : 15A, 10A, 10A & 10A
+Fuse box (1): Location: Mounted on the air 
+cleaner assembly (2) left hand side.
+1
+(1) Fuse box            (2) Air cleaner assembly
+(3) Circuit fuse: 15A, 10A, 10A & 10A
+(4) Spare fuse: 15A, 10A
+2 4
+3
+7
+9
+----------------------------------------
+
+CHUNK 75
+Page: 68
+Content Length: 1250 characters
+Content:
+65
+CAUTION
+!
+• Turn the ignition switch "OFF" before 
+checking or replacing the fuse to prevent 
+accidental short-circuiting.
+• Do not attempt to start or ride the vehicle 
+without a charged battery, it can cause 
+fusing of the bulbs and permanent damage 
+to certain electrical components.
+• Turn the ignition switch to the “ON” (  ) 
+position.
+STOP LAMP SWITCH
+The stop lamp switch (1) must be adjusted so 
+that stop lamp will glow when rear brake is 
+applied. Rear brake free play (page 54) 
+should be adjusted before performing stop 
+lamp switch adjustment. The procedure for 
+adjusting stop lamp switch is as follows:
+(1) Stop lamp switch          (2) Adjusting nut
+(A) Advance                      (B) Retard
+2
+1
+A
+B
+• Turn the adjusting nut (2) to position stop 
+lamp switch at a point where the stop lamp 
+will glow just before the brake pedal is 
+depressed to the limit of its free play. Turn  
+the adjusting nut in direction (A) to advance 
+switch timing or in direction (B) to retard 
+switch timing.
+WARNING
+!
+• Never use a fuse with a different rating from 
+that specified. It may lead to serious damage 
+to the electrical system or a fire due to short 
+circuit.
+• Battery gives off explosive gases. Keep 
+sparks, flames & cigarettes away.
+----------------------------------------
+
+CHUNK 76
+Page: 69
+Content Length: 1854 characters
+Content:
+66
+(1) Headlamp adjusting bolt
+1
+WARNING
+!
+An improperly adjust headlamp may blind 
+oncoming rider/driver or it may fail to light the 
+road for a safe distance.
+A defective catalytic converter contributes to 
+air pollution and can impair your engine’s 
+performance.
+CATALYTIC CONVERTER
+This vehicle is equipped with the catalytic 
+converter (1) in the muffler to meet the 
+emission norms.
+The catalytic converter contains precious 
+metals that serve as catalysts, promoting 
+chemical reactions to convert the exhaust 
+gasses without affecting the metals. The 
+catalytic converter acts on HC, CO and NOx.
+The catalytic converter must operate at a high 
+temperature for the chemical reactions to take 
+place. It can set on fire any combustible 
+material that come near it. Park your vehicle 
+away from high grasses, dry leaves, or other 
+flammable material.
+Follow these guidelines to protect your 
+vehicle’s catalytic converter.
+• Always use unleaded petrol. Even a small 
+amount of leaded petrol can contaminate 
+the catalyst metals, making the catalytic 
+converter ineffective.
+• Keep the engine in good running condition. 
+A poorly running engine can cause the 
+catalytic converter to overheat.
+• If your engine is misfiring, backfiring, 
+stalling, or otherwise not running properly, 
+stop riding and turn “OFF” the engine. Have 
+ 
+your vehicle serviced as soon aspossible.
+ 
+HEADLAMP FOCUS ADJUSTMENT
+Headlamp is factory preset. However in case 
+of adjustment required, please follow the steps 
+as given below:
+• Headlamp adjustment is done by the 
+headlamp adjusting bolt (1) located below 
+headlamp.
+• Park the vehicle on level ground.
+• Turn the ignition switch to “ON” (  ) 
+position and start the engine.
+•
+amp
+Adjust the headl
+ beam vertically 
+by 
+the 
+loosening 
+bolt & move the headlamp 
+unit forward & backward for correct focus 
+adjustment.
+----------------------------------------
+
+CHUNK 77
+Page: 70
+Content Length: 1078 characters
+Content:
+67
+(1) Canister
+1
+NOTE
+Polishing or waxing is not applicable for 
+models having matte paint.
+After washing your vehicle, wax all painted 
+surfaces (except matte painted surfaces) using 
+a commercially available polish/quality liquid 
+or paste wax to finish the job. Use only a non 
+abrasive polish or wax made specifically for 
+automobiles. Apply the polish or wax 
+according to the instructions on the container.
+POLISHING OF VEHICLE
+EVAPORATIVE EMISSION CONTROL 
+SYSTEM
+This vehicle is equipped with an evaporative 
+emission control system to meet emission 
+standards. During warm weather, the petrol
+vapours which contain HC evaporates easily 
+into the atmosphere from the fuel tank, if the 
+fuel system is unsealed or open. The 
+evaporative emission control system is used to 
+prevent petrol vapours from escaping into the 
+atmosphere from fuel tank. The canister (1) 
+collects the fuel vapour from the fuel tank and 
+then the fuel vapour is drawn into the engine 
+for re-burning to avoid pollution caused by the 
+fuel vapour diffused into the air.
+(1) Catalytic converter
+1
+----------------------------------------
+
+CHUNK 78
+Page: 71
+Content Length: 852 characters
+Content:
+BASIC TROUBLESHOOTING
+Check fuse
+Inspect battery
+Check connections, ignition switch/starter switch
+Ok
+Ok
+Ok
+Loose
+Replace fuse (page 64) 
+Secure connections
+Weak
+Fused
+Consult Authorised Hero MotoCorp Workshop
+C.   Electric starter not working 
+Consult Authorised Hero MotoCorp Workshop
+1.    STARTING TROUBLE - ENGINE DOES NOT START
+68
+Check side stand in gear condition (page 23)
+Side stand“Down” 
+B.    Side Stand Engine Kill System
+Consult Authorised Hero MotoCorp Workshop
+Move the side stand up 
+Side stand “Up”
+Key “ON” position
+Check for operating 
+sound of fuel pump
+Broken fuel pump 
+wire connector
+Refill the fuel tank
+Secure connections
+Leakage
+Low fuel indicator glows
+continuously
+A.   Fuel System
+Consult Authorised 
+ Workshop
+Hero MotoCorp
+Refill
+Consult Authorised 
+Hero MotoCorp Workshop
+Check fuel in fuel tank
+Check fuel lines
+OK
+OK
+----------------------------------------
+
+CHUNK 79
+Page: 72
+Content Length: 864 characters
+Content:
+69
+OK
+Check air cleaner element
+OK
+Replace
+Dirty
+Leakage
+Consult Authorised Hero MotoCorp Workshop
+2.    ENGINE STARTS BUT STALLS
+Consult Authorised Hero MotoCorp Workshop
+Check fuel lines
+Check ignition switch
+Ok
+Ok
+Ok
+“OFF”
+D.  No spark at spark plug
+No spark
+Consult Authorised Hero MotoCorp Workshop
+Check spark plug for fouling/
+Improper electrode gap
+Replace spark plug/adjust
+Spark plug gap (0.8-0.9 mm)
+Loose contact
+Check for poorly connected
+Or loose spark plug wire
+Secure properly
+Turn ignition switch “ON”
+Spark plug loose in cylinder head
+Ok
+Check air cleaner element
+Ok
+Ok
+Check brake binding
+Improper adjustment
+Tighten the spark plug
+Replace
+Readjust free play of rear brake pedal
+Clogged
+Loose
+3.    POOR PICK UP
+Ok
+Check tyre inflation pressure
+Under inflated
+Correct tyre pressure
+Consult Authorised Hero MotoCorp Workshop
+BASIC TROUBLESHOOTING
+----------------------------------------
+
+CHUNK 80
+Page: 73
+Content Length: 658 characters
+Content:
+BASIC TROUBLESHOOTING
+Check fuse
+Ok
+Inspect battery
+Ok
+Ok
+Check bulbs
+Fuse/wrong wattage
+Replace fuse (page 64)
+Weak
+Fused
+Feeble horn sound or no light
+Replace bulbs
+4.    ELECTRICAL SYSTEM
+Ok
+Check connections
+Loose
+Secure connections
+Consult Authorised Hero MotoCorp Workshop
+Consult Authorised Hero MotoCorp Workshop
+Check i3s switch
+Ok
+Inspect fuse
+Ok
+Ok
+5.    i3s SYSTEM
+Ok
+Consult Authorised Hero MotoCorp Workshop
+Inspect battery
+Check neutral indication
+“ON”/“OFF” position
+Weak/i3s indicator blinking
+Loose contact
+Fused
+Secure connections/replace switch
+Turn i3s switch “ON”
+Replace fuse
+Replace Bulbs
+Consult Authorised 
+Hero MotoCorp Workshop
+70
+----------------------------------------
+
+CHUNK 81
+Page: 74
+Content Length: 812 characters
+Content:
+ROAD SIGNS
+Mandatory signs: These road signs inform drivers/riders of the traffic rules that apply on a certain 
+stretch of road, thereby instructing them on how to drive/ride. Mandatory signs are distinguished by 
+the bright red circle with black and blue markings. It is imperative that all riders follow these signs as 
+they help avoid accidents. Their violation can be penalised under the Motor Vehicle Act.
+Mandatory
+Speed Limit
+No Hand Cart
+No Pedestrians
+No Right Turn
+No ‘U’ Turn
+Overtaking Prohibited
+No Parking
+Length Limit
+High Limit
+Restriction Ends
+No Stopping 
+or Standing
+Compulsory-
+Ahead Only
+Compulsory-Turn
+Left
+Compulsory-Right
+Ahead
+Compulsory-Ahead
+or Turn Right
+Compulsory-Keep 
+Left
+Compulsory-Bicycle
+Track
+Compulsory-Sound
+Horn
+No Automobiles
+Stop
+Give Way
+One Way
+No Horn
+No Bicyles
+71
+----------------------------------------
+
+CHUNK 82
+Page: 75
+Content Length: 1435 characters
+Content:
+ROAD SIGNS
+Cautionary signs: These signs inform the driver/rider of the road conditions ahead. 
+Cautionary signs therefore serve as a warning. They are usually in a red triangle with black 
+pictures on a white background. Illustrations, diagrams and symbols are used to forewarn about 
+dangers ahead. Cautionary road signs are as important as mandatory signs. However, the 
+violation of cautionary signs does not attract penalty.
+Pedestrian Crossing
+Right Hand Curve
+Right Reverse Bend
+Incline Ahead
+Narrow Road Ahead
+Narrow Bridge
+ROAD SIGNS
+Informatory signs: These are facility signs that provide important information about road directions 
+are maps of specific destinations. On highways, they provide information about the location of public 
+telephones, restaurants, hospitals, parking, petrol pumps, resting-places and more. These signs are 
+usually rectangular, with black or white pictures on a blue background.
+Signs and Signals are language of the road. Learn them, respect them.
+Informatory
+Cautionary
+NEW DELHI    40
+ROHTAK        58
+NAJAFGARH   3
+Hump Road
+School Ahead
+Gap in Medium
+Cross Road
+Men at Work
+Roundabout
+Light
+Refreshment
+NEW DELHI
+ROHTAK
+NAJAFGARH
+Destination Sign
+Taxi Stand
+Parking Both
+Sides
+Parking This
+Side
+No Through
+Road
+No Through
+Side Road
+Rohtak
+Bahadurgarh
+48
+10
+Re-assure Sign
+ Delhi
+Place Identification
+Place
+Hospital
+First Aid
+Post
+Petrol
+Pump
+Eating
+Place
+Resting
+Place
+Public
+Telephone
+72
+----------------------------------------
+
+CHUNK 83
+Page: 76
+Content Length: 1420 characters
+Content:
+WARRANTY
+Hero MotoCorp Ltd.
+Scope of warranty
+a) SUPER SPLENDOR vehicle is warranted for a period of 5 years or 70000 Km, 
+whichever is earlier, from the date of purchase, emission warranty is separately covered 
+under the head of “Emission Warranty”.
+Terms & conditions
+c) If any 
+ is observed in SUPER SPLENDOR vehicle, Hero MotoCorp's only 
+problem
+obligation/ liability is to repair or replace that part/those parts which is/are considered to 
+be the cause of such 
+, provided however that such 
+ has not resulted due to 
+problem
+problem
+misuse/improper handling etc. of the vehicle. Any SUPER SPLENDOR vehicle needing 
+repair should be brought along with owner's manual to Hero MotoCorp's authorized 
+workshop for necessary inspection and carrying rectification job.
+Hero MotoCorp Ltd. (hereinafter called ‘Hero MotoCorp’) warrants its SUPER SPLENDOR 
+vehicles, assembled/manufactured in its Plants and sold through its 
+, to be 
+channel partners
+free from any defect - both in material and workmanship, under normal use and conditions, 
+subject to the following terms & conditions.
+b) It is advised that the purchaser avails all free and paid services from the Hero MotoCorp’s 
+authorized workshop as per the recommended schedule, to be eligible for warranty 
+benefits.  Each paid service should be availed within 90 days from the date of previous 
+service or as per the recommended schedule, whichever is earlier.
+----------------------------------------
+
+CHUNK 84
+Page: 77
+Content Length: 1819 characters
+Content:
+Hero MotoCorp Ltd. LIMITATIONS OF WARRANTY
+The warranty shall not apply—
+(7) For normal phenomena like noise vibration, oil seepage etc., which do not affect the performance of the vehicle. (14) For 
+ vehicle not used in accordance with the guidelines given in this Owner's Manual. SUPER SPLENDOR
+(2) If any other engine oil which is  non compatible with product is used other than SAE 10W30 SL Grade (JASO MA2). (10) If any maintenance/repairs required due to bad road conditions or misuse of
+ vehicle. SUPER SPLENDOR
+(1) If all free services/paid services/oil top-ups are not availed as per the recommended schedule at Hero MotoCorp's 
+authorized workshop. (4) If additional wheel(s) is/are fitted and/or any other modification carried out/unauthorized accessories fitted which shall be 
+responsible for malfunction/detoriation of the vehicle. (5) If 
+ vehicle has been used in any competitive events like races or rallies or for any commercial purposes as 
+SUPER SPLENDOR
+taxi etc. (11) If any defect crops or repairs needed as a result of 
+vehicle meeting to some accident. SUPER SPLENDOR 
+(12) For consumables like oil, grease, gasket etc to be used during free services and/or warranty repairs. (16) Any defect(s) developing on account of external factors such as environmental factors; including but not limited to 
+fading/peeling/rusting of paint and/or stripes and/or plated parts, seat leather tearing & cracking, aluminium parts oxidation 
+and cracking & discoloring of control switches etc. Subject to DELHI JURISDICTION only. (13) To any part of the 
+ vehicle which has been tampered or repaired in such a manner which has resulted in 
+SUPER SPLENDOR
+malfunction of the vehicle. Decision regarding warranty settlement shall be taken by Hero MotoCorp and the same shall be final and 
+binding on all concern.
+----------------------------------------
+
+CHUNK 85
+Page: 77
+Content Length: 910 characters
+Content:
+(3) To normal wear & tear components including (but not limited to) brake shoes/pads, clutch plates, drive chain & sprockets, 
+bulbs, electrical wiring, filter, spark plug, fasteners, shims, washers, oil seals, gaskets, rubber parts, bush, rubber bellows, plastic 
+parts breakage, wheel rim for misalignment/bend, steering ball race & cone, control cables such as brake cable/clutch cable, 
+fuses (all types), steering handle for bend and sticker peel off. (8) To any damage caused due to usage of improper oil/grease, non-genuine parts. (9) If any defect crops or repairs needed as a result of using adulterated fuel. (6) To any damage on vehicle's painted surface cropping due to industrial pollution or other external factors. (15) To proprietary items like Tyres, Tubes, Batteries etc, as they are subjected to the warranty terms & conditions of respective 
+manufacturers and directly handled by them only.
+----------------------------------------
+
+CHUNK 86
+Page: 78
+Content Length: 2292 characters
+Content:
+Hero MotoCorp Ltd. 3. This warranty card accompanies a battery sold as OEM fitment only. Claims should be supported with vehicle purchase invoice to 
+enable processing. BATTERY WARRANTY PERIOD
+2. 21 months from the date of charging (whichever is earlier). 1. 18 months from date of sale of vehicle or 20000 km. or
+3. 3 months idle period is allowed from the date of charging to date of sale on vehicle. Terms and condition of warranty
+1. Batteries are warranted against all defects in material and workmanship. Liability under this warranty is limited to making good of 
+defects rising solely from the use of faulty material or workmanship during manufacturing and developing under proper use. The warranty commences from the date of delivery to the original purchase of the vehicle. 2. In the event of any complaint the battery is to be returned complete with electrolyte to nearest battery service station or any OEM 
+dealer. On inspection, battery would be returned or replaced. 5. All liabilities under this warranty will cease if the battery is used on the vehicle other than that on which the battery was originally 
+fitted and on the expiry of the warranty period as mentioned above. 6. Recharging is not covered under the purview of this warranty and shall be billed  as extra. However, FOC battery replacement/ 
+repair includes cost of charging. 8. Breakage of container and cover do not come under the purview of this warranty. 10. In case of tempering of the original wiring circuit in any manner whatsoever. 12. The applicable taxes which is leviable on the battery under repair or replacement will be borne by the customer. 13. Customers are deemed to have read, understood and agreed to these conditions at the time of purchase of the vehicle. 9. Adjudication and settlement of claim will take a couple of days as a battery has to be tested for the reported failure. 4. The right to determine whether a battery needs repair or totally replacement lies with the company. In case where the battery is 
+ 
+replaced, the defective battery becomes the property of the company and no scrap rebate will be given for it. The warranty 
+period on the battery being repaired/replaced shall commence from the date of sale of the original battery as stated in the 
+original warranty card. 11.
+----------------------------------------
+
+CHUNK 87
+Page: 78
+Content Length: 392 characters
+Content:
+If a battery which is not recommended is fitted on the vehicle then such battery will not carry any warranty. 7. This warranty does not cover damage to the battery caused by faulty electrical systems, incorrect charging and filling, improper 
+handling of the battery by unauthorized dealers/auto electricians, maintenance, willfull abuse, destruction by fire, collusion, theft 
+or recharging.
+----------------------------------------
+
+CHUNK 88
+Page: 79
+Content Length: 2410 characters
+Content:
+Hero MotoCorp Ltd. EMISSION WARRANTY
+Scope of warranty
+Hero MotoCorp Ltd. Warrants all its vehicles, assembled/manufactured at its various Plants and sold through its channel 
+partners, to comply with emission standards as specified in sub rule (2) of Rule 115 of Central Motor Vehicles Rules, 1989, subject 
+to following terms & conditions. Terms & conditions
+a) The emission warranty shall be applicable in India and shall remain valid for a period of 3 years or 30000 km, whichever occurs 
+earlier, from the date of vehicle purchase. b) In case any defect is observed in any emission-related component which are covered under emission warranty, Hero 
+MotoCorp only obligation/liability shall be to repair and/or replace those part (s) which is/are considered to be the cause of 
+non-compliance with the emission standards. d) Hero MotoCorp Ltd. shall have the sole discretion to decide to replace the defective components or the entire assembly or 
+any other part required for such repair. e) The emission warranty shall be applicable only to those vehicles, which are being regularly maintained in accordance with the 
+maintenance schedule provided in the owner's manual. c) The method (s) of examination to determine the warranty conditions of the emission warranty related component will be at the 
+sole discretion of Hero MotoCorp Ltd. and / or Channel Partners / service center and result of such examination shall be 
+final and binding. If on examination the warranty conditions of the part (s) is / are not established, Hero MotoCorp Ltd. will 
+have the right to charge all, or part of the cost of such examination / service charges to the customer in addition to the cost of the 
+components. h) Any part (s) suffering wear and tear under the normal course of running shall not be covered under the emission warranty. Therefore, all such parts should be replaced by the customer from time to time, on payment basis, as per the maintenance 
+schedule provided in owner's manual and dealer's advice
+i) It is recommended to avail the services as per the recommended schedule to be eligible for the emission warranty benefits. Please 
+ensure that each paid service is availed within 90 days from the date of previous services or as per the recommended schedule, 
+whichever is earlier. All service details should be completely filled by the dealer, in the Service Record Sheet given in the 
+owner's manual.
+----------------------------------------
+
+CHUNK 89
+Page: 79
+Content Length: 330 characters
+Content:
+g) If any part (s) related to emission characteristics of the vehicles is/are tampered and/or repaired by unauthorized person/ 
+workshops etc, then the emission warranty shall stand cancelled. f) The customer should follow the recommended parts replacement as per the maintenance schedule in order to avail the emission 
+warranty.
+----------------------------------------
+
+CHUNK 90
+Page: 80
+Content Length: 1333 characters
+Content:
+Hero MotoCorp Ltd.
+EMISSION WARRANTY
+• The vehicle has been used for competitions, races, and rallies or for the purpose of establishing records.
+k) The parts, which are covered under emission warranty are fuel injector, fuel pump, throttle body, ignition coil, oxygen sensor and 
+muffler.
+• The vehicle has been subjected to abnormal use, abuse, neglect and improper maintenance or has met with an accident.
+j) It is mandatory to obtain a PUC certificate from the Authorised PUC center. In case of non-compliance with the emission 
+standards please contact the channel partner
+ immediately along with the previous OK certificate, for 
+/authorised workshop
+the necessary rectification. The manufacturer or the dealer is not responsible for any penalty levied on you on account of 
+non-compliance with the emission standards.
+ 
+Subject to Delhi jurisdiction only.
+l) Emission warranty shall not be applicable if
+• The vehicle, or parts thereof, has been altered, tampered with or modified or replaced in an unauthorized manner.
+• The odometer is not functioning or the odometer and/or its reading has been changed/tampered with, so that the actual 
+distance covered cannot be readily determined.
+m) All decisions regarding emission warranty settlement shall be taken by Hero MotoCorp Ltd. and shall be final binding on all 
+concerned.
+----------------------------------------
+
+CHUNK 91
+Page: 81
+Content Length: 569 characters
+Content:
+• Ensures economy for a long time
+• Safety of vehicle and rider
+WHAT ARE THE BENEFITS OF Hero MotoCorp GENUINE SPARE PARTS ?
+• Value for money
+• Assured quality
+• Peace of mind
+• Assures long life
+CONSEQUENTIAL DAMAGES ON USING NON-GENUINE PARTS
+Clutch plate
+• Poor acceleration
+• Material used is inferior
+• Damages other parts of clutch like, clutch center and 
+outer clutch
+• Affects fuel efficiency
+• Reduced life
+• Poor performance
+• Higher emission level
+• Leads to leakage and smoky exhaust
+• Engine knocking
+• Improper sealing
+Cam chain kit
+Gasket cylinder head
+----------------------------------------
+
+CHUNK 92
+Page: 82
+Content Length: 510 characters
+Content:
+CONSEQUENTIAL DAMAGES ON USING NON-GENUINE PARTS
+Element air cleaner
+• Improper air filtration resulting in premature engine failure
+• Affects fuel efficiency 
+• Poor engine performance
+• Higher emission level
+• Affects fuel efficiency
+• Poor engine performance
+• Frequent stalling of engine 
+• Discs/Drum wear out, resulting in subsequent repair cost
+• Poor braking efficiency
+• Rider safety-an issue
+• Noisy operation
+• Failure of chain can cause fatal accident
+Chain sprocket kit
+Brake pads/Shoes
+Spark plug
+----------------------------------------
+
+CHUNK 93
+Page: 83
+Content Length: 1339 characters
+Content:
+For any of your service related query/requirements you may contact the respective 
+Zonal/Regional/Area Offices
+Hero MotoCorp Ltd., Flat No: 1002. 10th Floor, Martin Burn Business Park, BP3, Salt Lake, Sector-V, Kolkata-700091, 
+West Bengal, India. Tel : +91-33-44026841,+91-33-44026830, E-mail : kolkata@heromotocorp.com
+Hero MotoCorp Ltd., Odyssa Business Centre, Plot no. 30, 30/982, 172/1030, 4th Floor Cuttack, Bhubaneshwar highway road, 
+Rasulgarh, Bhubaneswar-751010, Odisha, India. Tel: +91-674-2581161, 62, 63, 64, E-mail: bhubaneshwar@heromotocorp.com
+Hero MotoCorp Ltd., Yash Heights, 1st Floor Bariatu Road, Above Basudeb Tata Showroom Ranchi-834009, Jharkhand, 
+India. Tel: +91-651-2542222, 2542224, 2542225, E-mail: ranchi@heromotocorp.com
+Tel: +910612-2590587/88/89 E-mail: patna@heromotocorp.com
+Hero MotoCorp Ltd., Sai Corporate Park, A Block, 6th Floor, Rukanpura, Bailey Road Patna, Bihar – 800014
+EAST ZONE
+Hero MotoCorp Ltd., 3rd Floor, Tower-A, DLF Centre Court, Sector-42, Golf Course Road, Gurgaon -122002, Haryana, 
+India. Tel: 0124-4754800, E-mail: delhi@heromotocorp.com
+Hero MotoCorp Ltd., S.C.O-367-368, First Floor, Sector-34A, Chandigarh-160022, India. Tel: +91-172-2623773, 2623774, 2623775, E-mail: chandigarh@heromotocorp.com
+NORTH ZONE
+Hero MotoCorp Ltd., No. 208, 209, 210- 2nd floor, Ganpati Plaza, M.I.
+----------------------------------------
+
+CHUNK 94
+Page: 83
+Content Length: 1254 characters
+Content:
+Road, Jaipur-302001, (Rajasthan). Tel: +91 141-2389031, 2389156, 2389252, E-mail: jaipur@heromotocorp.com
+Hero MotoCorp Ltd., Office No. 55 to 59, 1st Floor, Maple High Street, Opposite Aashima Mall, Hoshangabad Road, 
+Bhopal-462026, India. Tel: +91-755-2994416, +91-755-2994398, E-mail: bhopal@heromotocorp.com 
+Tel: +91-731-4978269, 70, E-mail: indore@heromotocorp.com 
+Hero MotoCorp Ltd., Maloo-01, 601-602, 6th Floor, Plot No. 26C, Scheme No. 94, Ring Road, Indore, M.P.-452010,
+CENTRAL ZONE
+Hero MotoCorp Ltd., Office. No.401, 4th Floor, Offizo, Magneto Mall, Labhandi, G.E. Road, Raipur -492 001, (Chhattisgarh)
+Tel: +91-771-4034749,  E-mail: raipur@heromotocorp.com
+Hero MotoCorp Ltd., Office No. 705-706, 7th Floor, Manglam Fun Square, Durga Nursery Road, Udaipur -313001 
+(Rajasthan). Tel: +91 0294-2980578, 79, E-mail: udaipur@heromotocorp.com
+Hero MotoCorp Ltd., 602, 6th Floor, Tower A, Plot No BW 58, Logix City Center, Sector-32, Noida – 201301. Uttar 
+Pradesh  Tel: 0120-4631000, E-mail: noida@heromotocorp.com
+ZONAL/REGIONAL/AREA OFFICES
+Hero MotoCorp Ltd., 158, Christian Basti, Golden Heights, 3rd Floor, Reliance Trend Building, Adjacent Central Mall, G.S. road, Kamrup, Assam-781005 Tel: 0361-2340058 E-mail: guwahati@heromotocorp.com
+----------------------------------------
+
+CHUNK 95
+Page: 84
+Content Length: 1332 characters
+Content:
+Hero MotoCorp Ltd., Chrome Building, Sr. No. 33, Hissa-A-1/1/2, Plot - 2, Viman Nagar Avenue 2, Nagar Road,
+Pune-411014, India. Tel: +91-020-71903500, E-mail: pune@heromotocorp.com
+Hero MotoCorp Ltd., 604, Gunjan Tower, Off Alembic Gorwa Road, Baroda-390023, India. Tel: +91-265-2286569/2286570, E-mail: baroda@heromotocorp.com
+Hero MotoCorp Ltd., Ground Floor, Block No.2, Vishnu Vaibhav Complex, 222, Palm Road, Civil Lines, Nagpur-440001, 
+India. Tel: +91-712-2545990-91, E-mail: nagpur@heromotocorp.com
+WEST ZONE
+Hero MotoCorp Ltd., Classic Stripes House, 3rd Floor76/79, Makwana Lane, Takpada Off. Andheri-Kurla Road Marol, 
+Andheri Easta, Mumbai-400059, India. Tel: +91-22-28562071, E-mail: mumbai@heromotocorp.com
+Hero MotoCorp Ltd., B-201, 2nd floor, Pride Corporate Royal Park, Kalavad Road, Rajkot -360001
+Tel: 0281-2460622, 2460623, E-mail: rajkot@heromotocorp.com
+Hubli-580029, India. Tel: 0836-2269717, 2361038, E-mail: hubli@heromotocorp.com
+Hero MotoCorp Ltd., First Floor VA Kalburgi Mahalakshmi Mansion, Mandakini Hospital Road, New Cotton Market, 
+Tel:+91-40-23223735/3727, E-mail: hyderabad@heromotocorp.com
+Hero MotoCorp Ltd., 3-6-289, 3rd Floor, Kareem Manzil, Hyderguda, Hyderabad-500029, India. SOUTH ZONE
+Hero MotoCorp Ltd., 9th Floor Seshachalam Centre No.636/1. Anna Salai, Nandanam, Chennai-600035, India.
+----------------------------------------
+
+CHUNK 96
+Page: 84
+Content Length: 1225 characters
+Content:
+Tel: +91-44- 24340974, 24340977, 24340978, E-mail: chennai@heromotocorp.com
+Hero MotoCorp Ltd., D.NO. 54-11-18 E, 2nd Floor, Sai Oddessey Building, Opp Executive Club, Near NH-5, 
+Vijayawada-520008, Andhra Pradesh, India. Tel: +91-866-2546859, E-mail: vijayawada@heromotocorp.com
+Hero MotoCorp Ltd., No 1547, 2nd Floor Classic Towers, Trichy Road, Coimbatore - 641018
+Tel: +91-422-2200058, 2200061, E-mail: coimbatore@heromotocorp.com
+NORTH ZONE
+Hero MotoCorp Ltd., 
+, Varanasi, Uttar Pradesh - 221010, India. C-19/134-B ,Third Floor I .P Grand, Lallapura, Sigra
+Tel: +91-
+, E-mail: varanasi@heromotocorp.com
+0542- 2390949,2390241
+Hero MotoCorp Ltd., Summit Building (10th Floor) Plot No TCG 3/3 Vibhuti Khand, Gomti Nagar Lucknow – 226010, 
+India. Tel: 0522-4006594, E-mail: lucknow@heromotocorp.com
+Hero MotoCorp Ltd., 6-A, DD Trade Tower, (6th Floor), Kaloor-Kadavanthra Road, Kaloor-682 017, Kochi-682017, 
+India. Tel: +91-0484- 4039646 -7, E-mail: cochin@heromotocorp.com
+Tel: +91-80-46881000, E-mail: bangalore@heromotocorp.com
+Hero MotoCorp Ltd., SKAV 909, 3rd Floor, 9/1, 
+ Road, Bangalore-560001, India. Lavelle
+Hero MotoCorp Ltd., Kapoor Towers, Plot No- 284, 15-B, Rajpur Road, Dehradun-248001, Uttarakhand, India.
+----------------------------------------
+
+CHUNK 97
+Page: 84
+Content Length: 67 characters
+Content:
+Tel:0135-2714661,2713662,2714663, E-mail: dehradun@heromotocorp.com
+----------------------------------------
+
